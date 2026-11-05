@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Testing & Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database WAL & temp files (keep primary growthiq.db or allow building it)
+growthiq.db-shm
+growthiq.db-wal
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated database
+growthiq.db

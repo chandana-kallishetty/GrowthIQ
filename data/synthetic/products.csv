@@ -1,0 +1,20 @@
+product_id,product_name,category,target_gender,list_price_inr,unit_cost_inr,gross_margin_rate
+P001,Contour Seamless Leggings,Leggings,Women,2499.0,850.0,0.66
+P002,High-Waist Sculpt Leggings,Leggings,Women,2799.0,920.0,0.67
+P003,UltraLight Ankle Leggings,Leggings,Women,2199.0,720.0,0.67
+P004,Studio Flared Pants,Flared Pants,Women,2999.0,1050.0,0.65
+P005,Ribbed Flare Lounger,Flared Pants,Women,2699.0,910.0,0.66
+P006,CloudFlex Sports Bra,Sports Bras,Women,1699.0,520.0,0.69
+P007,High-Impact Racerback Bra,Sports Bras,Women,1999.0,620.0,0.69
+P008,Ribbed Longline Bra,Sports Bras,Women,1799.0,550.0,0.69
+P009,Everyday Biker Shorts,Shorts,Women,1499.0,480.0,0.68
+P010,Core Training Shorts,Shorts,Men,1799.0,590.0,0.67
+P011,Speed 2-in-1 Running Shorts,Shorts,Unisex,2199.0,750.0,0.66
+P012,Ribbed Crop Tank,Tops & Tanks,Women,1299.0,390.0,0.7
+P013,Airy Performance Tee,Tops & Tanks,Men,1599.0,480.0,0.7
+P014,Oversized Boyfriend Tee,Tops & Tanks,Women,1499.0,450.0,0.7
+P015,Sculpt Zip Jacket,Jackets,Women,3799.0,1350.0,0.64
+P016,CloudKnit Zip Hoodie,Jackets,Unisex,3999.0,1420.0,0.64
+P017,Luxe Windbreaker,Jackets,Unisex,4499.0,1600.0,0.64
+P018,Move Sculpt Swimsuit,Swimwear,Women,3299.0,1100.0,0.67
+P019,Flex Tapered Joggers,Joggers,Unisex,2899.0,980.0,0.66

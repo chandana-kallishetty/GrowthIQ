@@ -1,0 +1,1989 @@
+order_id,customer_id,session_id,order_date,channel,campaign,device,discount_rate,order_status
+ORD000927,CUST00409,SESS0000927,2025-01-04,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001207,CUST00740,SESS0001207,2025-01-06,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD000126,CUST01085,SESS0000126,2025-01-08,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000926,CUST01966,SESS0000926,2025-01-10,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000397,CUST00964,SESS0000397,2025-01-10,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD001464,CUST00215,SESS0001464,2025-01-12,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000148,CUST02022,SESS0000148,2025-01-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001056,CUST00991,SESS0001056,2025-01-14,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000961,CUST01678,SESS0000961,2025-01-14,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001974,CUST01350,SESS0001974,2025-01-15,Email,Email_Welcome_Flow_10Off,Desktop,0.2,Completed
+ORD001124,CUST01006,SESS0001124,2025-01-16,Paid Social,Meta_Spring_Sculpt,Desktop,0.15,Completed
+ORD000928,CUST02478,SESS0000928,2025-01-16,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000550,CUST00914,SESS0000550,2025-01-17,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000738,CUST01540,SESS0000738,2025-01-17,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000490,CUST00536,SESS0000490,2025-01-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000632,CUST01652,SESS0000632,2025-01-19,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000953,CUST01241,SESS0000953,2025-01-20,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000372,CUST01216,SESS0000372,2025-01-21,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD000755,CUST02406,SESS0000755,2025-01-22,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000657,CUST01179,SESS0000657,2025-01-22,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000526,CUST00634,SESS0000526,2025-01-22,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001845,CUST01851,SESS0001845,2025-01-22,Paid Social,Meta_Summer_Active_Drop,Tablet,0.0,Completed
+ORD001350,CUST00006,SESS0001350,2025-01-22,Paid Social,Meta_Spring_Sculpt,Mobile,0.2,Completed
+ORD000519,CUST00861,SESS0000519,2025-01-23,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000012,CUST01729,SESS0000012,2025-01-23,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000943,CUST02205,SESS0000943,2025-01-23,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000556,CUST01345,SESS0000556,2025-01-24,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001308,CUST00626,SESS0001308,2025-01-24,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001122,CUST01323,SESS0001122,2025-01-24,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001162,CUST00930,SESS0001162,2025-01-24,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000879,CUST02390,SESS0000879,2025-01-25,Paid Search,GAds_Brand_Exact,Mobile,0.0,Refunded
+ORD001698,CUST00883,SESS0001698,2025-01-26,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.1,Completed
+ORD001347,CUST00321,SESS0001347,2025-01-27,Paid Search,GAds_Brand_Exact,Mobile,0.3,Completed
+ORD000204,CUST00662,SESS0000204,2025-01-28,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD001165,CUST00515,SESS0001165,2025-01-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000163,CUST01577,SESS0000163,2025-01-29,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000691,CUST02499,SESS0000691,2025-01-30,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000666,CUST00500,SESS0000666,2025-01-31,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001689,CUST00601,SESS0001689,2025-02-01,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000947,CUST02118,SESS0000947,2025-02-01,Paid Social,Meta_Summer_Active_Drop,Desktop,0.3,Completed
+ORD000009,CUST02234,SESS0000009,2025-02-01,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000026,CUST02299,SESS0000026,2025-02-01,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001605,CUST01467,SESS0001605,2025-02-02,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001063,CUST01214,SESS0001063,2025-02-02,Email,Email_Welcome_Flow_10Off,Mobile,0.1,Completed
+ORD000187,CUST02080,SESS0000187,2025-02-02,Paid Search,GAds_Brand_Exact,Desktop,0.0,Refunded
+ORD000496,CUST01752,SESS0000496,2025-02-03,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000677,CUST02091,SESS0000677,2025-02-03,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000695,CUST01879,SESS0000695,2025-02-04,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000882,CUST00533,SESS0000882,2025-02-04,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD001105,CUST00566,SESS0001105,2025-02-04,Paid Search,GAds_Competitor_Conquest,Tablet,0.3,Completed
+ORD001625,CUST00296,SESS0001625,2025-02-04,Paid Search,GAds_PMax_Shopping,Mobile,0.3,Completed
+ORD000724,CUST01702,SESS0000724,2025-02-05,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000278,CUST00277,SESS0000278,2025-02-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD000011,CUST02419,SESS0000011,2025-02-05,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Refunded
+ORD001026,CUST02497,SESS0001026,2025-02-05,Paid Search,GAds_Competitor_Conquest,Tablet,0.1,Cancelled
+ORD001319,CUST00124,SESS0001319,2025-02-06,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000129,CUST02300,SESS0000129,2025-02-06,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD001447,CUST01852,SESS0001447,2025-02-07,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000232,CUST01991,SESS0000232,2025-02-08,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001431,CUST01381,SESS0001431,2025-02-09,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000664,CUST01013,SESS0000664,2025-02-09,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001023,CUST01740,SESS0001023,2025-02-10,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000098,CUST01894,SESS0000098,2025-02-10,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001932,CUST01682,SESS0001932,2025-02-11,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Completed
+ORD001947,CUST01887,SESS0001947,2025-02-11,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001163,CUST00555,SESS0001163,2025-02-12,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD001679,CUST01591,SESS0001679,2025-02-12,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD000873,CUST01776,SESS0000873,2025-02-12,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Cancelled
+ORD001025,CUST01685,SESS0001025,2025-02-13,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000029,CUST00815,SESS0000029,2025-02-13,Paid Social,Meta_Summer_Active_Drop,Desktop,0.3,Refunded
+ORD000025,CUST00109,SESS0000025,2025-02-13,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000935,CUST02055,SESS0000935,2025-02-13,Email,Email_VIP_Early_Access,Mobile,0.3,Completed
+ORD001726,CUST02148,SESS0001726,2025-02-14,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD000904,CUST00168,SESS0000904,2025-02-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000801,CUST00041,SESS0000801,2025-02-14,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000463,CUST00473,SESS0000463,2025-02-15,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD001112,CUST00495,SESS0001112,2025-02-15,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000788,CUST00128,SESS0000788,2025-02-15,Direct,Direct_Brand_Traffic,Desktop,0.0,Refunded
+ORD001794,CUST01187,SESS0001794,2025-02-15,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD001309,CUST00626,SESS0001309,2025-02-15,Organic Search,Organic_SEO_Content,Mobile,0.0,Refunded
+ORD001547,CUST02272,SESS0001547,2025-02-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001878,CUST02219,SESS0001878,2025-02-16,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001582,CUST02291,SESS0001582,2025-02-17,Paid Social,Meta_Summer_Active_Drop,Desktop,0.2,Completed
+ORD001924,CUST00044,SESS0001924,2025-02-17,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Refunded
+ORD001048,CUST00554,SESS0001048,2025-02-17,Organic Search,Organic_SEO_Content,Desktop,0.15,Completed
+ORD001709,CUST01490,SESS0001709,2025-02-17,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001172,CUST02189,SESS0001172,2025-02-17,Email,Email_Cart_Recovery_Series,Mobile,0.1,Refunded
+ORD001072,CUST02458,SESS0001072,2025-02-18,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD000979,CUST01465,SESS0000979,2025-02-18,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000385,CUST01953,SESS0000385,2025-02-19,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD000584,CUST01044,SESS0000584,2025-02-19,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001224,CUST00599,SESS0001224,2025-02-20,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000099,CUST01555,SESS0000099,2025-02-20,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD000668,CUST01344,SESS0000668,2025-02-20,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001362,CUST00591,SESS0001362,2025-02-22,Paid Social,Meta_Evergreen_Leggings,Mobile,0.2,Completed
+ORD001619,CUST02174,SESS0001619,2025-02-22,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001863,CUST00052,SESS0001863,2025-02-23,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001102,CUST00573,SESS0001102,2025-02-23,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000112,CUST00272,SESS0000112,2025-02-23,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001779,CUST00472,SESS0001779,2025-02-24,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD000901,CUST00864,SESS0000901,2025-02-24,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000735,CUST00973,SESS0000735,2025-02-24,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD000004,CUST01004,SESS0000004,2025-02-24,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000733,CUST01524,SESS0000733,2025-02-25,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD001948,CUST01963,SESS0001948,2025-02-25,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD001675,CUST00889,SESS0001675,2025-02-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000118,CUST02324,SESS0000118,2025-02-25,Paid Search,GAds_Brand_Exact,Mobile,0.3,Completed
+ORD001027,CUST00217,SESS0001027,2025-02-25,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000857,CUST00056,SESS0000857,2025-02-26,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.2,Completed
+ORD001876,CUST00624,SESS0001876,2025-02-26,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001125,CUST01006,SESS0001125,2025-02-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000915,CUST00460,SESS0000915,2025-02-27,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000839,CUST00060,SESS0000839,2025-02-27,Direct,Direct_Brand_Traffic,Mobile,0.15,Refunded
+ORD001019,CUST01037,SESS0001019,2025-02-27,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000155,CUST00656,SESS0000155,2025-03-01,Paid Social,Meta_Evergreen_Leggings,Desktop,0.2,Completed
+ORD001473,CUST01549,SESS0001473,2025-03-01,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001904,CUST01316,SESS0001904,2025-03-01,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000400,CUST01009,SESS0000400,2025-03-01,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000551,CUST00914,SESS0000551,2025-03-01,Organic Search,Organic_SEO_Content,Mobile,0.1,Cancelled
+ORD001517,CUST01891,SESS0001517,2025-03-02,Paid Search,GAds_Brand_Exact,Desktop,0.3,Cancelled
+ORD001563,CUST01987,SESS0001563,2025-03-02,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001348,CUST00321,SESS0001348,2025-03-02,Email,Email_Winback_Inactive_90D,Mobile,0.0,Cancelled
+ORD001095,CUST00435,SESS0001095,2025-03-03,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Refunded
+ORD000229,CUST00351,SESS0000229,2025-03-03,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001546,CUST00968,SESS0001546,2025-03-04,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000741,CUST01306,SESS0000741,2025-03-04,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000069,CUST00788,SESS0000069,2025-03-04,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001931,CUST00684,SESS0001931,2025-03-04,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000985,CUST01978,SESS0000985,2025-03-05,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000328,CUST00575,SESS0000328,2025-03-05,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD001918,CUST00251,SESS0001918,2025-03-05,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD000681,CUST01595,SESS0000681,2025-03-05,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001734,CUST00905,SESS0001734,2025-03-06,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD001721,CUST00945,SESS0001721,2025-03-06,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000708,CUST01946,SESS0000708,2025-03-06,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000196,CUST02363,SESS0000196,2025-03-07,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.1,Completed
+ORD000013,CUST00131,SESS0000013,2025-03-07,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001156,CUST01528,SESS0001156,2025-03-07,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000318,CUST01390,SESS0000318,2025-03-07,Paid Search,GAds_Category_Athleisure,Mobile,0.3,Completed
+ORD000164,CUST01564,SESS0000164,2025-03-07,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000527,CUST00970,SESS0000527,2025-03-08,Influencer,Inf_Festive_Gifting_Unbox,Tablet,0.0,Completed
+ORD001774,CUST01589,SESS0001774,2025-03-08,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000687,CUST01962,SESS0000687,2025-03-09,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001320,CUST00124,SESS0001320,2025-03-09,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001339,CUST00322,SESS0001339,2025-03-10,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001507,CUST01611,SESS0001507,2025-03-11,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.0,Completed
+ORD001021,CUST00699,SESS0001021,2025-03-11,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000207,CUST00003,SESS0000207,2025-03-11,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001064,CUST01214,SESS0001064,2025-03-11,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000213,CUST00080,SESS0000213,2025-03-12,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000041,CUST01394,SESS0000041,2025-03-12,Paid Search,GAds_PMax_Shopping,Desktop,0.2,Completed
+ORD000019,CUST00953,SESS0000019,2025-03-12,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD000539,CUST00443,SESS0000539,2025-03-12,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001648,CUST01331,SESS0001648,2025-03-12,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Refunded
+ORD001550,CUST00297,SESS0001550,2025-03-13,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001824,CUST01234,SESS0001824,2025-03-13,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001481,CUST02229,SESS0001481,2025-03-13,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD000415,CUST00978,SESS0000415,2025-03-13,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001310,CUST00626,SESS0001310,2025-03-14,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001584,CUST01172,SESS0001584,2025-03-14,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001328,CUST00204,SESS0001328,2025-03-14,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000487,CUST00181,SESS0000487,2025-03-15,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001548,CUST00936,SESS0001548,2025-03-15,Paid Search,GAds_PMax_Shopping,Tablet,0.2,Refunded
+ORD000588,CUST00808,SESS0000588,2025-03-15,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD000491,CUST00536,SESS0000491,2025-03-16,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD000043,CUST00637,SESS0000043,2025-03-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001458,CUST01645,SESS0001458,2025-03-16,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Completed
+ORD001753,CUST00782,SESS0001753,2025-03-16,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD001614,CUST00205,SESS0001614,2025-03-17,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000530,CUST01689,SESS0000530,2025-03-17,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD001351,CUST00006,SESS0001351,2025-03-17,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001849,CUST01461,SESS0001849,2025-03-17,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD001690,CUST00601,SESS0001690,2025-03-17,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001553,CUST01228,SESS0001553,2025-03-18,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000279,CUST00277,SESS0000279,2025-03-18,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000295,CUST01937,SESS0000295,2025-03-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001371,CUST02293,SESS0001371,2025-03-18,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001111,CUST00176,SESS0001111,2025-03-18,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000419,CUST01622,SESS0000419,2025-03-19,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000853,CUST00958,SESS0000853,2025-03-19,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000493,CUST01073,SESS0000493,2025-03-19,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000636,CUST00302,SESS0000636,2025-03-19,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000024,CUST02466,SESS0000024,2025-03-19,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000893,CUST01559,SESS0000893,2025-03-19,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001083,CUST02190,SESS0001083,2025-03-20,Paid Search,GAds_PMax_Shopping,Tablet,0.1,Completed
+ORD001609,CUST01209,SESS0001609,2025-03-20,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001968,CUST02492,SESS0001968,2025-03-20,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000468,CUST00863,SESS0000468,2025-03-20,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000506,CUST00607,SESS0000506,2025-03-21,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000863,CUST01358,SESS0000863,2025-03-21,Paid Social,Meta_Evergreen_Leggings,Desktop,0.2,Completed
+ORD001635,CUST01616,SESS0001635,2025-03-21,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001971,CUST00108,SESS0001971,2025-03-21,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001796,CUST00270,SESS0001796,2025-03-22,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001179,CUST01522,SESS0001179,2025-03-22,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD000962,CUST01678,SESS0000962,2025-03-22,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001460,CUST00683,SESS0001460,2025-03-22,Email,Email_Welcome_Flow_10Off,Mobile,0.2,Completed
+ORD001612,CUST00902,SESS0001612,2025-03-22,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000104,CUST01329,SESS0000104,2025-03-23,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000131,CUST01077,SESS0000131,2025-03-23,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001476,CUST01606,SESS0001476,2025-03-23,Paid Search,GAds_PMax_Shopping,Desktop,0.3,Completed
+ORD001699,CUST00883,SESS0001699,2025-03-23,Email,Email_VIP_Early_Access,Mobile,0.15,Refunded
+ORD001964,CUST00664,SESS0001964,2025-03-23,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001155,CUST00872,SESS0001155,2025-03-24,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001082,CUST02243,SESS0001082,2025-03-24,Paid Search,GAds_PMax_Shopping,Desktop,0.2,Completed
+ORD001040,CUST00314,SESS0001040,2025-03-24,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD001782,CUST02010,SESS0001782,2025-03-24,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD001190,CUST00992,SESS0001190,2025-03-24,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001115,CUST02192,SESS0001115,2025-03-24,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001639,CUST02195,SESS0001639,2025-03-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001557,CUST01708,SESS0001557,2025-03-25,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD000692,CUST02110,SESS0000692,2025-03-25,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000027,CUST02299,SESS0000027,2025-03-25,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD000059,CUST01882,SESS0000059,2025-03-26,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000089,CUST01517,SESS0000089,2025-03-26,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001871,CUST00239,SESS0001871,2025-03-26,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001049,CUST00554,SESS0001049,2025-03-26,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001015,CUST00759,SESS0001015,2025-03-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001664,CUST01951,SESS0001664,2025-03-27,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.3,Completed
+ORD000324,CUST00785,SESS0000324,2025-03-27,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001173,CUST02189,SESS0001173,2025-03-27,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Refunded
+ORD000802,CUST00041,SESS0000802,2025-03-28,Paid Search,GAds_Competitor_Conquest,Mobile,0.3,Completed
+ORD001503,CUST01276,SESS0001503,2025-03-28,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001137,CUST00454,SESS0001137,2025-03-28,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD000905,CUST00168,SESS0000905,2025-03-28,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD000750,CUST00563,SESS0000750,2025-03-29,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001661,CUST00074,SESS0001661,2025-03-29,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD000501,CUST02349,SESS0000501,2025-03-30,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000030,CUST02233,SESS0000030,2025-03-30,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000916,CUST00460,SESS0000916,2025-03-30,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD001094,CUST00999,SESS0001094,2025-03-30,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000522,CUST00422,SESS0000522,2025-03-31,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD001946,CUST02397,SESS0001946,2025-04-01,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD000219,CUST01260,SESS0000219,2025-04-01,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD001800,CUST01857,SESS0001800,2025-04-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001877,CUST00624,SESS0001877,2025-04-02,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001508,CUST00417,SESS0001508,2025-04-02,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Cancelled
+ORD001682,CUST00341,SESS0001682,2025-04-02,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000441,CUST00543,SESS0000441,2025-04-02,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD000822,CUST02433,SESS0000822,2025-04-03,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001161,CUST01440,SESS0001161,2025-04-03,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001446,CUST00906,SESS0001446,2025-04-03,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000197,CUST02363,SESS0000197,2025-04-04,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001098,CUST00530,SESS0001098,2025-04-04,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000210,CUST01328,SESS0000210,2025-04-04,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.15,Completed
+ORD000380,CUST02221,SESS0000380,2025-04-04,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD000861,CUST01213,SESS0000861,2025-04-05,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001961,CUST00734,SESS0001961,2025-04-05,Paid Social,Meta_Retargeting_Catalog,Desktop,0.15,Completed
+ORD001925,CUST00044,SESS0001925,2025-04-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001225,CUST00599,SESS0001225,2025-04-05,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000645,CUST01741,SESS0000645,2025-04-05,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001531,CUST02228,SESS0001531,2025-04-06,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Refunded
+ORD000401,CUST01009,SESS0000401,2025-04-06,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD000263,CUST00921,SESS0000263,2025-04-07,Influencer,Inf_Yoga_Creators_Collab,Tablet,0.1,Completed
+ORD001065,CUST01214,SESS0001065,2025-04-07,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD001740,CUST01502,SESS0001740,2025-04-07,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000062,CUST01551,SESS0000062,2025-04-07,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001325,CUST01516,SESS0001325,2025-04-08,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001620,CUST00032,SESS0001620,2025-04-08,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Completed
+ORD001159,CUST01933,SESS0001159,2025-04-08,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001291,CUST00853,SESS0001291,2025-04-08,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD000929,CUST02478,SESS0000929,2025-04-08,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Refunded
+ORD000823,CUST01103,SESS0000823,2025-04-08,Paid Search,GAds_Competitor_Conquest,Mobile,0.3,Completed
+ORD000135,CUST01636,SESS0000135,2025-04-08,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000268,CUST00087,SESS0000268,2025-04-09,Organic Search,Organic_SEO_Content,Mobile,0.2,Refunded
+ORD001169,CUST01779,SESS0001169,2025-04-09,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001949,CUST01963,SESS0001949,2025-04-09,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD001511,CUST00269,SESS0001511,2025-04-09,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001354,CUST01412,SESS0001354,2025-04-09,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD001033,CUST01302,SESS0001033,2025-04-10,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD000358,CUST01643,SESS0000358,2025-04-10,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000280,CUST00277,SESS0000280,2025-04-11,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000368,CUST01733,SESS0000368,2025-04-11,Email,Email_VIP_Early_Access,Mobile,0.2,Completed
+ORD001657,CUST00649,SESS0001657,2025-04-11,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000633,CUST01652,SESS0000633,2025-04-11,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000214,CUST00080,SESS0000214,2025-04-11,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001770,CUST00017,SESS0001770,2025-04-11,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD000714,CUST01255,SESS0000714,2025-04-11,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000559,CUST01144,SESS0000559,2025-04-12,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000156,CUST01730,SESS0000156,2025-04-12,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001591,CUST00090,SESS0001591,2025-04-12,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000437,CUST02073,SESS0000437,2025-04-12,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000188,CUST02080,SESS0000188,2025-04-12,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD000362,CUST00009,SESS0000362,2025-04-12,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000139,CUST00899,SESS0000139,2025-04-12,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001438,CUST01181,SESS0001438,2025-04-13,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001973,CUST02175,SESS0001973,2025-04-13,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000874,CUST01776,SESS0000874,2025-04-13,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000558,CUST02447,SESS0000558,2025-04-13,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000639,CUST00502,SESS0000639,2025-04-13,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000469,CUST00863,SESS0000469,2025-04-14,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000375,CUST00240,SESS0000375,2025-04-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001825,CUST01340,SESS0001825,2025-04-14,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001504,CUST01021,SESS0001504,2025-04-14,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000296,CUST00996,SESS0000296,2025-04-14,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD001730,CUST01120,SESS0001730,2025-04-15,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001011,CUST00712,SESS0001011,2025-04-15,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001492,CUST01347,SESS0001492,2025-04-15,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD000669,CUST01344,SESS0000669,2025-04-15,Paid Social,Meta_Retargeting_Catalog,Desktop,0.2,Refunded
+ORD000391,CUST00233,SESS0000391,2025-04-15,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000600,CUST01212,SESS0000600,2025-04-15,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001941,CUST02125,SESS0001941,2025-04-15,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001859,CUST00761,SESS0001859,2025-04-16,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001707,CUST00369,SESS0001707,2025-04-16,Organic Search,Organic_SEO_Content,Mobile,0.15,Refunded
+ORD000957,CUST02028,SESS0000957,2025-04-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001444,CUST01063,SESS0001444,2025-04-16,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000327,CUST01838,SESS0000327,2025-04-17,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Refunded
+ORD001680,CUST01591,SESS0001680,2025-04-17,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001052,CUST01904,SESS0001052,2025-04-17,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD000208,CUST00003,SESS0000208,2025-04-17,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001215,CUST02201,SESS0001215,2025-04-17,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000235,CUST02182,SESS0000235,2025-04-17,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001329,CUST00204,SESS0001329,2025-04-17,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001297,CUST01915,SESS0001297,2025-04-18,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001074,CUST00924,SESS0001074,2025-04-18,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000672,CUST00012,SESS0000672,2025-04-18,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000793,CUST01854,SESS0000793,2025-04-18,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001976,CUST02489,SESS0001976,2025-04-19,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001151,CUST01823,SESS0001151,2025-04-19,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD000721,CUST01827,SESS0000721,2025-04-19,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD000865,CUST02147,SESS0000865,2025-04-19,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001887,CUST00760,SESS0001887,2025-04-20,Paid Search,GAds_Brand_Exact,Mobile,0.0,Cancelled
+ORD000906,CUST00168,SESS0000906,2025-04-20,Email,Email_VIP_Early_Access,Mobile,0.0,Refunded
+ORD001650,CUST00673,SESS0001650,2025-04-20,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.15,Completed
+ORD000663,CUST00787,SESS0000663,2025-04-21,Paid Social,Meta_Spring_Sculpt,Desktop,0.15,Completed
+ORD001566,CUST01188,SESS0001566,2025-04-21,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001632,CUST01560,SESS0001632,2025-04-21,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD001420,CUST01225,SESS0001420,2025-04-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001957,CUST01501,SESS0001957,2025-04-22,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001497,CUST00385,SESS0001497,2025-04-22,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000308,CUST01735,SESS0000308,2025-04-22,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001480,CUST02164,SESS0001480,2025-04-22,Paid Social,Meta_Spring_Sculpt,Mobile,0.2,Completed
+ORD000911,CUST00107,SESS0000911,2025-04-23,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001206,CUST00466,SESS0001206,2025-04-23,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001482,CUST02229,SESS0001482,2025-04-23,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD001600,CUST01336,SESS0001600,2025-04-23,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001573,CUST00707,SESS0001573,2025-04-23,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.15,Completed
+ORD000066,CUST01201,SESS0000066,2025-04-24,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000509,CUST00523,SESS0000509,2025-04-24,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000199,CUST02387,SESS0000199,2025-04-24,Influencer,Inf_Fitness_Ambassador_Q2,Tablet,0.0,Completed
+ORD000466,CUST01116,SESS0000466,2025-04-24,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.1,Completed
+ORD001738,CUST00613,SESS0001738,2025-04-24,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000760,CUST02018,SESS0000760,2025-04-24,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD001626,CUST00840,SESS0001626,2025-04-25,Direct,Direct_Brand_Traffic,Tablet,0.0,Completed
+ORD000858,CUST00056,SESS0000858,2025-04-25,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD001813,CUST00750,SESS0001813,2025-04-25,Organic Search,Organic_SEO_Content,Mobile,0.15,Refunded
+ORD000831,CUST01000,SESS0000831,2025-04-25,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000951,CUST00756,SESS0000951,2025-04-25,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001478,CUST01876,SESS0001478,2025-04-25,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001907,CUST00484,SESS0001907,2025-04-26,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.2,Completed
+ORD001640,CUST02195,SESS0001640,2025-04-26,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD000764,CUST02154,SESS0000764,2025-04-26,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000497,CUST01752,SESS0000497,2025-04-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000620,CUST02254,SESS0000620,2025-04-26,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD000880,CUST02003,SESS0000880,2025-04-26,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001520,CUST01247,SESS0001520,2025-04-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001413,CUST00825,SESS0001413,2025-04-27,Paid Social,Meta_Summer_Active_Drop,Tablet,0.15,Completed
+ORD000976,CUST01388,SESS0000976,2025-04-27,Email,Email_Welcome_Flow_10Off,Desktop,0.1,Completed
+ORD001889,CUST02059,SESS0001889,2025-04-27,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD000032,CUST01840,SESS0000032,2025-04-27,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001299,CUST01985,SESS0001299,2025-04-27,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001559,CUST00697,SESS0001559,2025-04-28,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000449,CUST01240,SESS0000449,2025-04-28,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001518,CUST01891,SESS0001518,2025-04-28,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001068,CUST00661,SESS0001068,2025-04-29,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000883,CUST00533,SESS0000883,2025-04-29,Email,Email_Welcome_Flow_10Off,Desktop,0.1,Completed
+ORD000063,CUST00323,SESS0000063,2025-04-29,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001926,CUST00044,SESS0001926,2025-04-29,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001006,CUST01160,SESS0001006,2025-04-30,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001003,CUST01631,SESS0001003,2025-04-30,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001024,CUST01926,SESS0001024,2025-04-30,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001084,CUST01250,SESS0001084,2025-04-30,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000076,CUST00327,SESS0000076,2025-04-30,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD001157,CUST01528,SESS0001157,2025-04-30,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD001864,CUST00672,SESS0001864,2025-04-30,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001321,CUST00124,SESS0001321,2025-04-30,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD001514,CUST01431,SESS0001514,2025-05-01,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD000971,CUST00053,SESS0000971,2025-05-01,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001593,CUST02259,SESS0001593,2025-05-01,Paid Social,Meta_Evergreen_Leggings,Desktop,0.1,Completed
+ORD000054,CUST01409,SESS0000054,2025-05-01,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001266,CUST02031,SESS0001266,2025-05-02,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Refunded
+ORD000317,CUST01650,SESS0000317,2025-05-02,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001459,CUST01645,SESS0001459,2025-05-02,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001445,CUST01835,SESS0001445,2025-05-02,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000709,CUST01946,SESS0000709,2025-05-02,Email,Email_VIP_Early_Access,Mobile,0.2,Completed
+ORD001271,CUST00306,SESS0001271,2025-05-02,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000402,CUST01009,SESS0000402,2025-05-03,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD001222,CUST01676,SESS0001222,2025-05-03,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000528,CUST00666,SESS0000528,2025-05-03,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Refunded
+ORD000623,CUST00348,SESS0000623,2025-05-04,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000925,CUST00064,SESS0000925,2025-05-04,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000820,CUST01981,SESS0000820,2025-05-05,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001980,CUST01052,SESS0001980,2025-05-05,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000944,CUST00447,SESS0000944,2025-05-05,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001226,CUST00599,SESS0001226,2025-05-06,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001246,CUST00962,SESS0001246,2025-05-06,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000739,CUST00507,SESS0000739,2025-05-06,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001880,CUST00200,SESS0001880,2025-05-07,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000140,CUST00899,SESS0000140,2025-05-07,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000627,CUST00963,SESS0000627,2025-05-07,Paid Social,Meta_Retargeting_Catalog,Mobile,0.3,Cancelled
+ORD001936,CUST01136,SESS0001936,2025-05-07,Paid Search,GAds_Competitor_Conquest,Desktop,0.2,Completed
+ORD000715,CUST01255,SESS0000715,2025-05-07,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000028,CUST02299,SESS0000028,2025-05-07,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000864,CUST01877,SESS0000864,2025-05-07,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001390,CUST00545,SESS0001390,2025-05-07,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD000902,CUST00517,SESS0000902,2025-05-08,Paid Search,GAds_Category_Athleisure,Tablet,0.15,Completed
+ORD000960,CUST01961,SESS0000960,2025-05-08,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001642,CUST00694,SESS0001642,2025-05-08,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD001035,CUST00942,SESS0001035,2025-05-08,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001405,CUST00255,SESS0001405,2025-05-08,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000917,CUST00460,SESS0000917,2025-05-08,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD001806,CUST00360,SESS0001806,2025-05-08,Paid Search,GAds_Brand_Exact,Desktop,0.15,Refunded
+ORD000396,CUST00279,SESS0000396,2025-05-09,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD001551,CUST02171,SESS0001551,2025-05-09,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000978,CUST00813,SESS0000978,2025-05-09,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001349,CUST00321,SESS0001349,2025-05-09,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001085,CUST01369,SESS0001085,2025-05-10,Paid Search,GAds_Brand_Exact,Mobile,0.0,Cancelled
+ORD000725,CUST01702,SESS0000725,2025-05-10,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.3,Completed
+ORD001519,CUST01291,SESS0001519,2025-05-10,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001700,CUST00883,SESS0001700,2025-05-10,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD000685,CUST00361,SESS0000685,2025-05-10,Paid Search,GAds_Competitor_Conquest,Tablet,0.3,Completed
+ORD000646,CUST01741,SESS0000646,2025-05-11,Email,Email_Winback_Inactive_90D,Mobile,0.3,Completed
+ORD000168,CUST02267,SESS0000168,2025-05-11,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD000582,CUST01578,SESS0000582,2025-05-11,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001951,CUST01173,SESS0001951,2025-05-11,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD001441,CUST01845,SESS0001441,2025-05-11,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000656,CUST01290,SESS0000656,2025-05-12,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001697,CUST00768,SESS0001697,2025-05-13,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.1,Completed
+ORD000562,CUST01638,SESS0000562,2025-05-13,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.15,Completed
+ORD001311,CUST00626,SESS0001311,2025-05-13,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001210,CUST00029,SESS0001210,2025-05-13,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000230,CUST00351,SESS0000230,2025-05-13,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000552,CUST00914,SESS0000552,2025-05-13,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000319,CUST01390,SESS0000319,2025-05-13,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001526,CUST01132,SESS0001526,2025-05-13,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000661,CUST01472,SESS0000661,2025-05-13,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001241,CUST01971,SESS0001241,2025-05-14,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000555,CUST01633,SESS0000555,2025-05-14,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001127,CUST00918,SESS0001127,2025-05-14,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001253,CUST00106,SESS0001253,2025-05-14,Paid Search,GAds_Brand_Exact,Mobile,0.1,Cancelled
+ORD001073,CUST02404,SESS0001073,2025-05-14,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000416,CUST00978,SESS0000416,2025-05-14,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000265,CUST01385,SESS0000265,2025-05-15,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000008,CUST00420,SESS0000008,2025-05-15,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001014,CUST01355,SESS0001014,2025-05-15,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001747,CUST00619,SESS0001747,2025-05-15,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.3,Completed
+ORD000462,CUST02459,SESS0000462,2025-05-15,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001579,CUST00773,SESS0001579,2025-05-15,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD001081,CUST01537,SESS0001081,2025-05-15,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001629,CUST01341,SESS0001629,2025-05-15,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD000887,CUST00671,SESS0000887,2025-05-16,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001153,CUST01992,SESS0001153,2025-05-16,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD000060,CUST02197,SESS0000060,2025-05-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000291,CUST02328,SESS0000291,2025-05-16,Paid Social,Meta_Retargeting_Catalog,Desktop,0.15,Completed
+ORD000386,CUST01953,SESS0000386,2025-05-16,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000457,CUST00425,SESS0000457,2025-05-16,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD001096,CUST00727,SESS0001096,2025-05-16,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD001126,CUST01006,SESS0001126,2025-05-16,Paid Social,Meta_Festive_Sale_Promo,Tablet,0.1,Completed
+ORD000644,CUST01252,SESS0000644,2025-05-16,Paid Social,Meta_Spring_Sculpt,Mobile,0.2,Refunded
+ORD001075,CUST00924,SESS0001075,2025-05-16,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD000629,CUST01272,SESS0000629,2025-05-16,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001942,CUST00478,SESS0001942,2025-05-17,Paid Social,Meta_Spring_Sculpt,Tablet,0.0,Completed
+ORD001113,CUST01475,SESS0001113,2025-05-17,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000157,CUST01730,SESS0000157,2025-05-17,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD000113,CUST00272,SESS0000113,2025-05-17,Email,Email_Welcome_Flow_10Off,Mobile,0.3,Completed
+ORD001621,CUST00032,SESS0001621,2025-05-17,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001280,CUST00243,SESS0001280,2025-05-18,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000326,CUST02456,SESS0000326,2025-05-18,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001678,CUST01298,SESS0001678,2025-05-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000765,CUST02154,SESS0000765,2025-05-18,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000658,CUST00399,SESS0000658,2025-05-18,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001174,CUST02189,SESS0001174,2025-05-18,Paid Social,Meta_Retargeting_Catalog,Desktop,0.2,Completed
+ORD001801,CUST01857,SESS0001801,2025-05-18,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001850,CUST01461,SESS0001850,2025-05-19,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001284,CUST01143,SESS0001284,2025-05-19,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000494,CUST02356,SESS0000494,2025-05-19,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000365,CUST01864,SESS0000365,2025-05-19,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000875,CUST01776,SESS0000875,2025-05-20,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001066,CUST01214,SESS0001066,2025-05-20,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000596,CUST01267,SESS0000596,2025-05-20,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001902,CUST01770,SESS0001902,2025-05-20,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD001965,CUST00664,SESS0001965,2025-05-20,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000364,CUST01087,SESS0000364,2025-05-20,Paid Search,GAds_Competitor_Conquest,Desktop,0.15,Completed
+ORD000720,CUST01474,SESS0000720,2025-05-21,Paid Search,GAds_PMax_Shopping,Desktop,0.1,Completed
+ORD001053,CUST01587,SESS0001053,2025-05-21,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000748,CUST01284,SESS0000748,2025-05-22,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000684,CUST00449,SESS0000684,2025-05-22,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000186,CUST00732,SESS0000186,2025-05-22,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001671,CUST02105,SESS0001671,2025-05-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001292,CUST01242,SESS0001292,2025-05-23,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001433,CUST02371,SESS0001433,2025-05-23,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001587,CUST01941,SESS0001587,2025-05-23,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001636,CUST01616,SESS0001636,2025-05-23,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001872,CUST02082,SESS0001872,2025-05-23,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000968,CUST02444,SESS0000968,2025-05-23,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001254,CUST00518,SESS0001254,2025-05-23,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.1,Completed
+ORD000384,CUST00206,SESS0000384,2025-05-24,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Completed
+ORD001404,CUST02422,SESS0001404,2025-05-24,Organic Search,Organic_SEO_Content,Mobile,0.2,Refunded
+ORD001786,CUST02224,SESS0001786,2025-05-24,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001116,CUST01138,SESS0001116,2025-05-24,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.2,Completed
+ORD000710,CUST01946,SESS0000710,2025-05-25,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Refunded
+ORD001147,CUST02014,SESS0001147,2025-05-25,Paid Search,GAds_Category_Athleisure,Desktop,0.2,Completed
+ORD001330,CUST00204,SESS0001330,2025-05-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001607,CUST02133,SESS0001607,2025-05-26,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000284,CUST02310,SESS0000284,2025-05-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000643,CUST00974,SESS0000643,2025-05-26,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000774,CUST01447,SESS0000774,2025-05-26,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000942,CUST02493,SESS0000942,2025-05-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001627,CUST00840,SESS0001627,2025-05-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001933,CUST00258,SESS0001933,2025-05-26,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001522,CUST00325,SESS0001522,2025-05-28,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001909,CUST00743,SESS0001909,2025-05-28,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Refunded
+ORD001513,CUST00898,SESS0001513,2025-05-28,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000640,CUST00502,SESS0000640,2025-05-28,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001333,CUST00426,SESS0001333,2025-05-29,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001457,CUST02068,SESS0001457,2025-05-29,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001402,CUST01166,SESS0001402,2025-05-29,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000422,CUST01229,SESS0000422,2025-05-29,Paid Social,Meta_Spring_Sculpt,Desktop,0.15,Completed
+ORD001684,CUST02194,SESS0001684,2025-05-29,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000956,CUST02357,SESS0000956,2025-05-30,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001615,CUST00205,SESS0001615,2025-05-30,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001255,CUST00979,SESS0001255,2025-05-30,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.15,Completed
+ORD000376,CUST00240,SESS0000376,2025-05-30,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001313,CUST01165,SESS0001313,2025-05-31,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000020,CUST00953,SESS0000020,2025-05-31,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD000185,CUST02051,SESS0000185,2025-05-31,Organic Search,Organic_SEO_Content,Tablet,0.0,Completed
+ORD001571,CUST01104,SESS0001571,2025-06-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001912,CUST01534,SESS0001912,2025-06-01,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD000040,CUST01732,SESS0000040,2025-06-01,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001867,CUST00951,SESS0001867,2025-06-01,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD001775,CUST01589,SESS0001775,2025-06-01,Email,Email_Welcome_Flow_10Off,Desktop,0.15,Completed
+ORD000794,CUST02383,SESS0000794,2025-06-01,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000846,CUST02325,SESS0000846,2025-06-01,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.1,Cancelled
+ORD001616,CUST01078,SESS0001616,2025-06-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000502,CUST02378,SESS0000502,2025-06-02,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000589,CUST01492,SESS0000589,2025-06-02,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000134,CUST02391,SESS0000134,2025-06-02,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000621,CUST01939,SESS0000621,2025-06-02,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000577,CUST01416,SESS0000577,2025-06-02,Paid Social,Meta_Spring_Sculpt,Tablet,0.0,Completed
+ORD001754,CUST00782,SESS0001754,2025-06-02,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD000505,CUST01513,SESS0000505,2025-06-03,Paid Search,GAds_PMax_Shopping,Desktop,0.2,Completed
+ORD000572,CUST00157,SESS0000572,2025-06-03,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001710,CUST00162,SESS0001710,2025-06-03,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000033,CUST02414,SESS0000033,2025-06-03,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD000335,CUST01024,SESS0000335,2025-06-03,Email,Email_Cart_Recovery_Series,Mobile,0.15,Completed
+ORD000693,CUST02110,SESS0000693,2025-06-03,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000470,CUST01405,SESS0000470,2025-06-03,Influencer,Inf_Festive_Gifting_Unbox,Tablet,0.1,Completed
+ORD000346,CUST02215,SESS0000346,2025-06-04,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001659,CUST01896,SESS0001659,2025-06-04,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001832,CUST00289,SESS0001832,2025-06-04,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001741,CUST01502,SESS0001741,2025-06-04,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Completed
+ORD001004,CUST01631,SESS0001004,2025-06-04,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000753,CUST01462,SESS0000753,2025-06-04,Paid Search,GAds_PMax_Shopping,Desktop,0.1,Refunded
+ORD001676,CUST00202,SESS0001676,2025-06-04,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000005,CUST00915,SESS0000005,2025-06-04,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000829,CUST01839,SESS0000829,2025-06-05,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD000014,CUST00123,SESS0000014,2025-06-05,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001071,CUST01790,SESS0001071,2025-06-05,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001274,CUST01153,SESS0001274,2025-06-05,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001120,CUST01791,SESS0001120,2025-06-05,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001565,CUST01496,SESS0001565,2025-06-05,Paid Social,Meta_Evergreen_Leggings,Tablet,0.15,Completed
+ORD000918,CUST01332,SESS0000918,2025-06-05,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.1,Completed
+ORD000638,CUST00095,SESS0000638,2025-06-06,Paid Search,GAds_Competitor_Conquest,Tablet,0.0,Completed
+ORD000329,CUST00575,SESS0000329,2025-06-06,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000544,CUST00818,SESS0000544,2025-06-06,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001030,CUST00742,SESS0001030,2025-06-07,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001401,CUST01219,SESS0001401,2025-06-07,Paid Search,GAds_Category_Athleisure,Desktop,0.1,Completed
+ORD000167,CUST01030,SESS0000167,2025-06-07,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD001088,CUST02025,SESS0001088,2025-06-07,Paid Search,GAds_Brand_Exact,Mobile,0.2,Refunded
+ORD001691,CUST00601,SESS0001691,2025-06-08,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000542,CUST01928,SESS0000542,2025-06-08,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000884,CUST00533,SESS0000884,2025-06-08,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD000619,CUST01812,SESS0000619,2025-06-08,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001847,CUST00254,SESS0001847,2025-06-09,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000888,CUST00671,SESS0000888,2025-06-09,Paid Social,Meta_Retargeting_Catalog,Mobile,0.3,Cancelled
+ORD001711,CUST02036,SESS0001711,2025-06-09,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001099,CUST00530,SESS0001099,2025-06-09,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001723,CUST01919,SESS0001723,2025-06-09,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD001442,CUST01845,SESS0001442,2025-06-09,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000565,CUST00114,SESS0000565,2025-06-09,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000628,CUST00963,SESS0000628,2025-06-10,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001914,CUST00125,SESS0001914,2025-06-10,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001128,CUST00918,SESS0001128,2025-06-10,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD000541,CUST00159,SESS0000541,2025-06-10,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001022,CUST00026,SESS0001022,2025-06-10,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001057,CUST01818,SESS0001057,2025-06-10,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001694,CUST02131,SESS0001694,2025-06-11,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001232,CUST01307,SESS0001232,2025-06-11,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000881,CUST02003,SESS0000881,2025-06-11,Direct,Direct_Brand_Traffic,Mobile,0.2,Cancelled
+ORD000387,CUST01953,SESS0000387,2025-06-11,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001495,CUST00847,SESS0001495,2025-06-11,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001558,CUST01935,SESS0001558,2025-06-11,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001790,CUST00633,SESS0001790,2025-06-12,Paid Search,GAds_Category_Athleisure,Mobile,0.3,Completed
+ORD001276,CUST00175,SESS0001276,2025-06-12,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD001448,CUST00372,SESS0001448,2025-06-12,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001233,CUST01542,SESS0001233,2025-06-12,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001967,CUST02185,SESS0001967,2025-06-12,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000780,CUST02418,SESS0000780,2025-06-12,Influencer,Inf_Fitness_Ambassador_Q2,Tablet,0.0,Refunded
+ORD000034,CUST01140,SESS0000034,2025-06-12,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001119,CUST00493,SESS0001119,2025-06-13,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001585,CUST01172,SESS0001585,2025-06-13,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000797,CUST01197,SESS0000797,2025-06-14,Paid Social,Meta_Evergreen_Leggings,Mobile,0.2,Completed
+ORD001580,CUST02034,SESS0001580,2025-06-14,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001613,CUST00902,SESS0001613,2025-06-14,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000305,CUST01452,SESS0000305,2025-06-14,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000836,CUST00559,SESS0000836,2025-06-14,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001331,CUST01563,SESS0001331,2025-06-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000262,CUST01016,SESS0000262,2025-06-14,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000868,CUST02481,SESS0000868,2025-06-14,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000125,CUST00586,SESS0000125,2025-06-15,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000564,CUST01357,SESS0000564,2025-06-15,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001722,CUST00521,SESS0001722,2025-06-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD001400,CUST00630,SESS0001400,2025-06-16,Paid Social,Meta_Summer_Active_Drop,Desktop,0.2,Completed
+ORD001656,CUST02090,SESS0001656,2025-06-16,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD000998,CUST01230,SESS0000998,2025-06-16,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001814,CUST00750,SESS0001814,2025-06-16,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001138,CUST01885,SESS0001138,2025-06-16,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Completed
+ORD001975,CUST01418,SESS0001975,2025-06-16,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000479,CUST02351,SESS0000479,2025-06-16,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000815,CUST00612,SESS0000815,2025-06-17,Paid Search,GAds_Brand_Exact,Desktop,0.2,Completed
+ORD000288,CUST01141,SESS0000288,2025-06-17,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001748,CUST00619,SESS0001748,2025-06-17,Email,Email_VIP_Early_Access,Mobile,0.2,Completed
+ORD001927,CUST00044,SESS0001927,2025-06-17,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000866,CUST02147,SESS0000866,2025-06-18,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000166,CUST02168,SESS0000166,2025-06-18,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001702,CUST00501,SESS0001702,2025-06-18,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000222,CUST00238,SESS0000222,2025-06-18,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD001016,CUST00142,SESS0001016,2025-06-18,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD000179,CUST00648,SESS0000179,2025-06-18,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD000176,CUST02500,SESS0000176,2025-06-18,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Refunded
+ORD001598,CUST00791,SESS0001598,2025-06-18,Paid Search,GAds_Brand_Exact,Tablet,0.1,Completed
+ORD000510,CUST00172,SESS0000510,2025-06-19,Paid Social,Meta_Spring_Sculpt,Desktop,0.2,Completed
+ORD001483,CUST02229,SESS0001483,2025-06-19,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000520,CUST01023,SESS0000520,2025-06-19,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000514,CUST01494,SESS0000514,2025-06-19,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001983,CUST01032,SESS0001983,2025-06-19,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000464,CUST00439,SESS0000464,2025-06-19,Direct,Direct_Brand_Traffic,Tablet,0.0,Completed
+ORD000492,CUST00536,SESS0000492,2025-06-19,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000832,CUST02388,SESS0000832,2025-06-20,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001505,CUST01967,SESS0001505,2025-06-20,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000331,CUST02490,SESS0000331,2025-06-20,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000856,CUST01275,SESS0000856,2025-06-20,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000433,CUST00874,SESS0000433,2025-06-20,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000625,CUST01373,SESS0000625,2025-06-20,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000200,CUST02387,SESS0000200,2025-06-20,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000766,CUST02154,SESS0000766,2025-06-20,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001272,CUST00306,SESS0001272,2025-06-21,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000662,CUST01427,SESS0000662,2025-06-21,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Refunded
+ORD001416,CUST02424,SESS0001416,2025-06-21,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.15,Completed
+ORD000676,CUST01763,SESS0000676,2025-06-21,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001979,CUST01758,SESS0001979,2025-06-21,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD000260,CUST00496,SESS0000260,2025-06-21,Paid Social,Meta_Evergreen_Leggings,Desktop,0.15,Completed
+ORD000543,CUST00912,SESS0000543,2025-06-21,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD001861,CUST01724,SESS0001861,2025-06-21,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001665,CUST01951,SESS0001665,2025-06-22,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001952,CUST01173,SESS0001952,2025-06-22,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001637,CUST01616,SESS0001637,2025-06-22,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001429,CUST02446,SESS0001429,2025-06-22,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001281,CUST00243,SESS0001281,2025-06-22,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000482,CUST00209,SESS0000482,2025-06-22,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Refunded
+ORD000311,CUST00222,SESS0000311,2025-06-22,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001601,CUST01336,SESS0001601,2025-06-22,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000742,CUST00568,SESS0000742,2025-06-22,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001669,CUST00589,SESS0001669,2025-06-23,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000150,CUST00193,SESS0000150,2025-06-23,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD000423,CUST01873,SESS0000423,2025-06-23,Paid Social,Meta_Evergreen_Leggings,Tablet,0.0,Completed
+ORD001191,CUST00992,SESS0001191,2025-06-23,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000991,CUST01428,SESS0000991,2025-06-23,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001383,CUST00406,SESS0001383,2025-06-24,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000023,CUST02070,SESS0000023,2025-06-24,Paid Search,GAds_Category_Athleisure,Mobile,0.3,Completed
+ORD000220,CUST01260,SESS0000220,2025-06-24,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD001175,CUST02189,SESS0001175,2025-06-25,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001326,CUST01516,SESS0001326,2025-06-25,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000795,CUST02383,SESS0000795,2025-06-25,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000180,CUST01859,SESS0000180,2025-06-25,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001556,CUST00143,SESS0001556,2025-06-25,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Refunded
+ORD000578,CUST01416,SESS0000578,2025-06-25,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001762,CUST00605,SESS0001762,2025-06-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000895,CUST01861,SESS0000895,2025-06-26,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000634,CUST01652,SESS0000634,2025-06-26,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD001923,CUST01716,SESS0001923,2025-06-26,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD000892,CUST00692,SESS0000892,2025-06-26,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD001681,CUST00909,SESS0001681,2025-06-26,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001826,CUST01340,SESS0001826,2025-06-26,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001644,CUST02359,SESS0001644,2025-06-27,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001592,CUST00652,SESS0001592,2025-06-27,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001252,CUST00378,SESS0001252,2025-06-27,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000903,CUST01710,SESS0000903,2025-06-27,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000048,CUST01557,SESS0000048,2025-06-27,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000169,CUST02267,SESS0000169,2025-06-27,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001067,CUST00550,SESS0001067,2025-06-27,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000003,CUST01127,SESS0000003,2025-06-28,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000775,CUST01447,SESS0000775,2025-06-28,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001322,CUST00124,SESS0001322,2025-06-28,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001366,CUST01995,SESS0001366,2025-06-28,Direct,Direct_Brand_Traffic,Desktop,0.2,Completed
+ORD000726,CUST02438,SESS0000726,2025-06-28,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001943,CUST00478,SESS0001943,2025-06-29,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000093,CUST00293,SESS0000093,2025-06-29,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Refunded
+ORD000931,CUST00042,SESS0000931,2025-06-29,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000759,CUST00655,SESS0000759,2025-06-29,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000173,CUST02200,SESS0000173,2025-06-29,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Completed
+ORD000814,CUST00721,SESS0000814,2025-06-29,Paid Social,Meta_Summer_Active_Drop,Desktop,0.1,Completed
+ORD001913,CUST01308,SESS0001913,2025-06-29,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD001036,CUST00942,SESS0001036,2025-06-29,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD001817,CUST01303,SESS0001817,2025-06-29,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000320,CUST01390,SESS0000320,2025-06-29,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001242,CUST01971,SESS0001242,2025-06-30,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD001089,CUST02025,SESS0001089,2025-06-30,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001160,CUST01912,SESS0001160,2025-06-30,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000344,CUST00402,SESS0000344,2025-07-01,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001890,CUST02021,SESS0001890,2025-07-01,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000181,CUST00014,SESS0000181,2025-07-01,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001436,CUST01377,SESS0001436,2025-07-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001058,CUST01893,SESS0001058,2025-07-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001706,CUST01777,SESS0001706,2025-07-01,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000330,CUST00575,SESS0000330,2025-07-02,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000524,CUST02257,SESS0000524,2025-07-02,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001833,CUST00289,SESS0001833,2025-07-02,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001183,CUST02464,SESS0001183,2025-07-02,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000930,CUST02478,SESS0000930,2025-07-02,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001216,CUST02201,SESS0001216,2025-07-02,Paid Search,GAds_Category_Athleisure,Tablet,0.2,Completed
+ORD001597,CUST00781,SESS0001597,2025-07-03,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001380,CUST01646,SESS0001380,2025-07-03,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Cancelled
+ORD001171,CUST00395,SESS0001171,2025-07-03,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000563,CUST01638,SESS0000563,2025-07-03,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD001012,CUST01092,SESS0001012,2025-07-03,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000471,CUST01405,SESS0000471,2025-07-03,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.15,Cancelled
+ORD001633,CUST01560,SESS0001633,2025-07-03,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001972,CUST01778,SESS0001972,2025-07-03,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001499,CUST00741,SESS0001499,2025-07-03,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD000257,CUST01795,SESS0000257,2025-07-04,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001641,CUST02195,SESS0001641,2025-07-04,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001061,CUST01692,SESS0001061,2025-07-04,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000659,CUST00399,SESS0000659,2025-07-04,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.2,Completed
+ORD000297,CUST01938,SESS0000297,2025-07-04,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000438,CUST02073,SESS0000438,2025-07-05,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD000674,CUST01538,SESS0000674,2025-07-05,Paid Social,Meta_Spring_Sculpt,Desktop,0.3,Completed
+ORD001538,CUST00598,SESS0001538,2025-07-05,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD000841,CUST00689,SESS0000841,2025-07-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001300,CUST00609,SESS0001300,2025-07-05,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000095,CUST02188,SESS0000095,2025-07-06,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000936,CUST00489,SESS0000936,2025-07-06,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000889,CUST00671,SESS0000889,2025-07-06,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000215,CUST00080,SESS0000215,2025-07-06,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001729,CUST01435,SESS0001729,2025-07-06,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000713,CUST00907,SESS0000713,2025-07-06,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000798,CUST01425,SESS0000798,2025-07-07,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Refunded
+ORD000784,CUST01112,SESS0000784,2025-07-07,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000136,CUST01483,SESS0000136,2025-07-07,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000170,CUST00048,SESS0000170,2025-07-07,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001117,CUST01138,SESS0001117,2025-07-07,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001651,CUST00673,SESS0001651,2025-07-07,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001479,CUST01876,SESS0001479,2025-07-07,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000407,CUST01718,SESS0000407,2025-07-08,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD001211,CUST00029,SESS0001211,2025-07-08,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000412,CUST01287,SESS0000412,2025-07-08,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000719,CUST01670,SESS0000719,2025-07-08,Paid Social,Meta_Evergreen_Leggings,Desktop,0.2,Completed
+ORD001423,CUST01902,SESS0001423,2025-07-08,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000986,CUST02094,SESS0000986,2025-07-08,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001384,CUST02011,SESS0001384,2025-07-08,Email,Email_Winback_Inactive_90D,Desktop,0.2,Completed
+ORD001590,CUST00842,SESS0001590,2025-07-09,Paid Social,Meta_Retargeting_Catalog,Desktop,0.15,Completed
+ORD000417,CUST00978,SESS0000417,2025-07-09,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001844,CUST01423,SESS0001844,2025-07-09,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD001742,CUST01502,SESS0001742,2025-07-09,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001552,CUST00391,SESS0001552,2025-07-09,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD000189,CUST02080,SESS0000189,2025-07-09,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD000754,CUST01462,SESS0000754,2025-07-09,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD000144,CUST00567,SESS0000144,2025-07-09,Paid Search,GAds_Category_Athleisure,Tablet,0.2,Completed
+ORD000094,CUST00701,SESS0000094,2025-07-09,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001915,CUST00816,SESS0001915,2025-07-10,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000206,CUST02173,SESS0000206,2025-07-10,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001336,CUST02297,SESS0001336,2025-07-10,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001285,CUST01143,SESS0001285,2025-07-10,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001355,CUST01412,SESS0001355,2025-07-10,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD000226,CUST02453,SESS0000226,2025-07-10,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000360,CUST01553,SESS0000360,2025-07-11,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001908,CUST00484,SESS0001908,2025-07-11,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD000747,CUST00993,SESS0000747,2025-07-11,Paid Search,GAds_Category_Athleisure,Tablet,0.15,Completed
+ORD001298,CUST00923,SESS0001298,2025-07-11,Email,Email_Cart_Recovery_Series,Mobile,0.3,Completed
+ORD001406,CUST00255,SESS0001406,2025-07-11,Email,Email_VIP_Early_Access,Desktop,0.2,Completed
+ORD001205,CUST02150,SESS0001205,2025-07-12,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000827,CUST01639,SESS0000827,2025-07-12,Paid Social,Meta_Summer_Active_Drop,Desktop,0.3,Completed
+ORD001805,CUST02020,SESS0001805,2025-07-12,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000121,CUST02045,SESS0000121,2025-07-12,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000912,CUST00107,SESS0000912,2025-07-12,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001799,CUST02347,SESS0001799,2025-07-12,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000670,CUST02460,SESS0000670,2025-07-12,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000336,CUST00309,SESS0000336,2025-07-12,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000090,CUST01456,SESS0000090,2025-07-13,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000570,CUST02364,SESS0000570,2025-07-13,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001837,CUST02170,SESS0001837,2025-07-13,Email,Email_VIP_Early_Access,Mobile,0.3,Completed
+ORD000665,CUST00819,SESS0000665,2025-07-14,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000593,CUST01286,SESS0000593,2025-07-14,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD000277,CUST00938,SESS0000277,2025-07-14,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001920,CUST01500,SESS0001920,2025-07-14,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000363,CUST01600,SESS0000363,2025-07-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001477,CUST02498,SESS0001477,2025-07-14,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001335,CUST00433,SESS0001335,2025-07-15,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000042,CUST01139,SESS0000042,2025-07-15,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000300,CUST00387,SESS0000300,2025-07-15,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000777,CUST02179,SESS0000777,2025-07-15,Paid Social,Meta_Retargeting_Catalog,Desktop,0.2,Completed
+ORD001204,CUST02290,SESS0001204,2025-07-15,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001712,CUST02036,SESS0001712,2025-07-15,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001628,CUST00840,SESS0001628,2025-07-15,Email,Email_VIP_Early_Access,Mobile,0.2,Completed
+ORD000641,CUST00502,SESS0000641,2025-07-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000231,CUST00351,SESS0000231,2025-07-16,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD001465,CUST00330,SESS0001465,2025-07-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000533,CUST01361,SESS0000533,2025-07-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001506,CUST01486,SESS0001506,2025-07-16,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000648,CUST01574,SESS0000648,2025-07-16,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD001314,CUST01165,SESS0001314,2025-07-17,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000141,CUST00899,SESS0000141,2025-07-17,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD001397,CUST00340,SESS0001397,2025-07-17,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.1,Completed
+ORD001881,CUST00200,SESS0001881,2025-07-17,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD000740,CUST01721,SESS0000740,2025-07-17,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001353,CUST01785,SESS0001353,2025-07-17,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001154,CUST00705,SESS0001154,2025-07-17,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000410,CUST01069,SESS0000410,2025-07-17,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000521,CUST01023,SESS0000521,2025-07-18,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD000833,CUST02388,SESS0000833,2025-07-18,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD001599,CUST01680,SESS0001599,2025-07-18,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001434,CUST02371,SESS0001434,2025-07-18,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD000511,CUST00172,SESS0000511,2025-07-18,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000595,CUST01231,SESS0000595,2025-07-18,Organic Search,Organic_SEO_Content,Tablet,0.0,Completed
+ORD001791,CUST01614,SESS0001791,2025-07-19,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.2,Completed
+ORD000651,CUST00849,SESS0000651,2025-07-19,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD000258,CUST02120,SESS0000258,2025-07-19,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001802,CUST01857,SESS0001802,2025-07-19,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001045,CUST01333,SESS0001045,2025-07-19,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001305,CUST00879,SESS0001305,2025-07-19,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD001720,CUST00294,SESS0001720,2025-07-19,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000824,CUST01531,SESS0000824,2025-07-20,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000545,CUST01886,SESS0000545,2025-07-20,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000092,CUST01094,SESS0000092,2025-07-21,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000209,CUST00003,SESS0000209,2025-07-21,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD000238,CUST01947,SESS0000238,2025-07-21,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001468,CUST00844,SESS0001468,2025-07-21,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001829,CUST01519,SESS0001829,2025-07-21,Direct,Direct_Brand_Traffic,Mobile,0.1,Refunded
+ORD001186,CUST00444,SESS0001186,2025-07-21,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001888,CUST01988,SESS0001888,2025-07-21,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001453,CUST01301,SESS0001453,2025-07-21,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000403,CUST01009,SESS0000403,2025-07-21,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000751,CUST00901,SESS0000751,2025-07-21,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001338,CUST00167,SESS0001338,2025-07-21,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD000147,CUST02088,SESS0000147,2025-07-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Cancelled
+ORD001985,CUST00089,SESS0001985,2025-07-22,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD000224,CUST02412,SESS0000224,2025-07-22,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000264,CUST00263,SESS0000264,2025-07-22,Paid Search,GAds_PMax_Shopping,Tablet,0.0,Completed
+ORD001486,CUST02345,SESS0001486,2025-07-23,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001312,CUST00626,SESS0001312,2025-07-23,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD000838,CUST00995,SESS0000838,2025-07-23,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001848,CUST00254,SESS0001848,2025-07-23,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001783,CUST00390,SESS0001783,2025-07-23,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD000972,CUST00053,SESS0000972,2025-07-23,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001828,CUST01843,SESS0001828,2025-07-24,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001966,CUST00664,SESS0001966,2025-07-24,Organic Search,Organic_SEO_Content,Mobile,0.0,Refunded
+ORD000622,CUST00696,SESS0000622,2025-07-24,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001134,CUST00191,SESS0001134,2025-07-24,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001363,CUST01448,SESS0001363,2025-07-24,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001617,CUST01078,SESS0001617,2025-07-24,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001223,CUST01676,SESS0001223,2025-07-24,Email,Email_Cart_Recovery_Series,Mobile,0.3,Refunded
+ORD000803,CUST02398,SESS0000803,2025-07-24,Paid Social,Meta_Evergreen_Leggings,Desktop,0.15,Completed
+ORD001428,CUST01801,SESS0001428,2025-07-25,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000642,CUST02016,SESS0000642,2025-07-25,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD001986,CUST01960,SESS0001986,2025-07-25,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001234,CUST01542,SESS0001234,2025-07-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000704,CUST01220,SESS0000704,2025-07-25,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD001776,CUST01589,SESS0001776,2025-07-25,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001846,CUST01099,SESS0001846,2025-07-25,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000557,CUST01142,SESS0000557,2025-07-25,Paid Search,GAds_Category_Athleisure,Mobile,0.3,Completed
+ORD000450,CUST01240,SESS0000450,2025-07-26,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD000175,CUST02470,SESS0000175,2025-07-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001076,CUST00924,SESS0001076,2025-07-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001343,CUST01131,SESS0001343,2025-07-26,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001854,CUST00755,SESS0001854,2025-07-27,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001767,CUST01956,SESS0001767,2025-07-27,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001606,CUST02232,SESS0001606,2025-07-27,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Cancelled
+ORD001815,CUST00750,SESS0001815,2025-07-27,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000114,CUST00272,SESS0000114,2025-07-27,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000686,CUST01647,SESS0000686,2025-07-27,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001131,CUST00036,SESS0001131,2025-07-27,Email,Email_Welcome_Flow_10Off,Mobile,0.1,Completed
+ORD000896,CUST01861,SESS0000896,2025-07-27,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000424,CUST01873,SESS0000424,2025-07-27,Email,Email_VIP_Early_Access,Desktop,0.1,Completed
+ORD000377,CUST00240,SESS0000377,2025-07-28,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000369,CUST01994,SESS0000369,2025-07-28,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000613,CUST01320,SESS0000613,2025-07-28,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000840,CUST00797,SESS0000840,2025-07-29,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001603,CUST00312,SESS0001603,2025-07-29,Paid Social,Meta_Festive_Sale_Promo,Tablet,0.0,Completed
+ORD000398,CUST01654,SESS0000398,2025-07-29,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000603,CUST01723,SESS0000603,2025-07-29,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000241,CUST02252,SESS0000241,2025-07-29,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Refunded
+ORD001652,CUST00673,SESS0001652,2025-07-29,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000852,CUST01722,SESS0000852,2025-07-29,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Completed
+ORD000096,CUST01003,SESS0000096,2025-07-29,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000507,CUST01761,SESS0000507,2025-07-29,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001544,CUST00989,SESS0001544,2025-07-29,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000055,CUST01084,SESS0000055,2025-07-30,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000969,CUST02444,SESS0000969,2025-07-30,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001054,CUST01587,SESS0001054,2025-07-30,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000592,CUST01353,SESS0000592,2025-07-30,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000078,CUST00414,SESS0000078,2025-07-30,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001695,CUST02131,SESS0001695,2025-07-30,Direct,Direct_Brand_Traffic,Desktop,0.2,Completed
+ORD000498,CUST01752,SESS0000498,2025-07-30,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001672,CUST00186,SESS0001672,2025-07-30,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001148,CUST02014,SESS0001148,2025-07-30,Email,Email_Welcome_Flow_10Off,Mobile,0.1,Completed
+ORD000454,CUST01227,SESS0000454,2025-07-30,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Completed
+ORD001097,CUST01634,SESS0001097,2025-07-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000805,CUST01804,SESS0000805,2025-07-30,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001367,CUST01995,SESS0001367,2025-07-30,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000431,CUST00301,SESS0000431,2025-07-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001836,CUST00814,SESS0001836,2025-07-31,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD001227,CUST00599,SESS0001227,2025-07-31,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000949,CUST01571,SESS0000949,2025-07-31,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.0,Completed
+ORD000781,CUST00850,SESS0000781,2025-07-31,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000826,CUST01119,SESS0000826,2025-07-31,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD000705,CUST00650,SESS0000705,2025-07-31,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001523,CUST02178,SESS0001523,2025-07-31,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000348,CUST00383,SESS0000348,2025-07-31,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000579,CUST01416,SESS0000579,2025-08-01,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001417,CUST01012,SESS0001417,2025-08-01,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000158,CUST01730,SESS0000158,2025-08-01,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001891,CUST01395,SESS0001891,2025-08-01,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001176,CUST02189,SESS0001176,2025-08-01,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001017,CUST00142,SESS0001017,2025-08-01,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD001795,CUST00748,SESS0001795,2025-08-01,Paid Search,GAds_Competitor_Conquest,Mobile,0.3,Completed
+ORD001594,CUST02259,SESS0001594,2025-08-01,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD001213,CUST01451,SESS0001213,2025-08-01,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001273,CUST00306,SESS0001273,2025-08-02,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000937,CUST00489,SESS0000937,2025-08-02,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001834,CUST00289,SESS0001834,2025-08-02,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001851,CUST01461,SESS0001851,2025-08-02,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000716,CUST01255,SESS0000716,2025-08-02,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001638,CUST01616,SESS0001638,2025-08-02,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001391,CUST00545,SESS0001391,2025-08-02,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001377,CUST01281,SESS0001377,2025-08-02,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001937,CUST01136,SESS0001937,2025-08-02,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD000566,CUST00114,SESS0000566,2025-08-02,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001184,CUST02464,SESS0001184,2025-08-02,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001109,CUST01059,SESS0001109,2025-08-02,Email,Email_Winback_Inactive_90D,Mobile,0.2,Completed
+ORD000538,CUST00653,SESS0000538,2025-08-02,Paid Social,Meta_Retargeting_Catalog,Mobile,0.3,Refunded
+ORD001373,CUST00146,SESS0001373,2025-08-03,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001038,CUST02139,SESS0001038,2025-08-03,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000266,CUST01385,SESS0000266,2025-08-03,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD000816,CUST00612,SESS0000816,2025-08-03,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001818,CUST01028,SESS0001818,2025-08-03,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.1,Completed
+ORD000393,CUST00329,SESS0000393,2025-08-03,Email,Email_Winback_Inactive_90D,Desktop,0.1,Completed
+ORD001588,CUST02401,SESS0001588,2025-08-04,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001469,CUST01421,SESS0001469,2025-08-04,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000728,CUST01123,SESS0000728,2025-08-04,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001062,CUST01498,SESS0001062,2025-08-04,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001259,CUST00821,SESS0001259,2025-08-05,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Completed
+ORD001421,CUST00082,SESS0001421,2025-08-05,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000571,CUST02298,SESS0000571,2025-08-05,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000761,CUST01107,SESS0000761,2025-08-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001821,CUST00527,SESS0001821,2025-08-05,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000413,CUST01287,SESS0000413,2025-08-06,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000086,CUST00667,SESS0000086,2025-08-06,Email,Email_VIP_Early_Access,Mobile,0.2,Completed
+ORD001491,CUST02353,SESS0001491,2025-08-06,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD001247,CUST00962,SESS0001247,2025-08-06,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001667,CUST02417,SESS0001667,2025-08-06,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD000806,CUST01568,SESS0000806,2025-08-07,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001576,CUST01655,SESS0001576,2025-08-07,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD000963,CUST02217,SESS0000963,2025-08-07,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD000153,CUST00627,SESS0000153,2025-08-07,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000050,CUST00397,SESS0000050,2025-08-08,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD000160,CUST00261,SESS0000160,2025-08-08,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001327,CUST01516,SESS0001327,2025-08-08,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000647,CUST01741,SESS0000647,2025-08-08,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001237,CUST01691,SESS0001237,2025-08-08,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Completed
+ORD001530,CUST01533,SESS0001530,2025-08-08,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD001005,CUST01631,SESS0001005,2025-08-09,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD001009,CUST00085,SESS0001009,2025-08-09,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000177,CUST01203,SESS0000177,2025-08-09,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001835,CUST01586,SESS0001835,2025-08-09,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000757,CUST00557,SESS0000757,2025-08-09,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD000921,CUST01335,SESS0000921,2025-08-09,Paid Social,Meta_Retargeting_Catalog,Desktop,0.1,Completed
+ORD001787,CUST02224,SESS0001787,2025-08-10,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001020,CUST01327,SESS0001020,2025-08-10,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001398,CUST00340,SESS0001398,2025-08-11,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001841,CUST01235,SESS0001841,2025-08-11,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001838,CUST02170,SESS0001838,2025-08-11,Paid Social,Meta_Evergreen_Leggings,Tablet,0.0,Completed
+ORD001424,CUST01902,SESS0001424,2025-08-11,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001666,CUST01951,SESS0001666,2025-08-11,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001827,CUST01340,SESS0001827,2025-08-12,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001195,CUST01208,SESS0001195,2025-08-12,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000171,CUST00470,SESS0000171,2025-08-12,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.3,Completed
+ORD000145,CUST00567,SESS0000145,2025-08-12,Paid Search,GAds_Category_Athleisure,Desktop,0.2,Completed
+ORD000306,CUST01452,SESS0000306,2025-08-12,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001885,CUST00796,SESS0001885,2025-08-12,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001780,CUST01811,SESS0001780,2025-08-12,Paid Search,GAds_Competitor_Conquest,Tablet,0.0,Completed
+ORD001960,CUST00031,SESS0001960,2025-08-12,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001268,CUST00110,SESS0001268,2025-08-13,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001984,CUST01679,SESS0001984,2025-08-13,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.1,Completed
+ORD000776,CUST01447,SESS0000776,2025-08-13,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001143,CUST00628,SESS0001143,2025-08-13,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001534,CUST02058,SESS0001534,2025-08-14,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD000420,CUST00537,SESS0000420,2025-08-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000458,CUST00425,SESS0000458,2025-08-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000574,CUST01780,SESS0000574,2025-08-14,Paid Search,GAds_PMax_Shopping,Desktop,0.1,Cancelled
+ORD000390,CUST00645,SESS0000390,2025-08-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001788,CUST00199,SESS0001788,2025-08-15,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001407,CUST00255,SESS0001407,2025-08-15,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000860,CUST00807,SESS0000860,2025-08-15,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000337,CUST00309,SESS0000337,2025-08-15,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD001129,CUST00918,SESS0001129,2025-08-15,Email,Email_Welcome_Flow_10Off,Desktop,0.3,Completed
+ORD001527,CUST01132,SESS0001527,2025-08-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001090,CUST02135,SESS0001090,2025-08-16,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001701,CUST00299,SESS0001701,2025-08-16,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD000515,CUST01494,SESS0000515,2025-08-16,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD001808,CUST00271,SESS0001808,2025-08-17,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Cancelled
+ORD000035,CUST00027,SESS0000035,2025-08-17,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001100,CUST00530,SESS0001100,2025-08-17,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD000082,CUST01858,SESS0000082,2025-08-17,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001496,CUST01628,SESS0001496,2025-08-17,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001622,CUST00032,SESS0001622,2025-08-18,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000218,CUST01487,SESS0000218,2025-08-18,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000723,CUST02198,SESS0000723,2025-08-18,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001408,CUST00960,SESS0001408,2025-08-18,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000818,CUST00799,SESS0000818,2025-08-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001166,CUST02102,SESS0001166,2025-08-18,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD001470,CUST01015,SESS0001470,2025-08-18,Paid Social,Meta_Retargeting_Catalog,Desktop,0.2,Completed
+ORD000534,CUST01361,SESS0000534,2025-08-19,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD001466,CUST00330,SESS0001466,2025-08-19,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000660,CUST00399,SESS0000660,2025-08-19,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000690,CUST00952,SESS0000690,2025-08-19,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000015,CUST00123,SESS0000015,2025-08-19,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000609,CUST01245,SESS0000609,2025-08-20,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000848,CUST01484,SESS0000848,2025-08-20,Paid Social,Meta_Retargeting_Catalog,Desktop,0.15,Completed
+ORD001692,CUST00601,SESS0001692,2025-08-20,Organic Search,Organic_SEO_Content,Mobile,0.15,Refunded
+ORD001443,CUST01845,SESS0001443,2025-08-20,Email,Email_Winback_Inactive_90D,Tablet,0.0,Completed
+ORD001938,CUST02183,SESS0001938,2025-08-20,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001525,CUST01714,SESS0001525,2025-08-20,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000227,CUST02453,SESS0000227,2025-08-20,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000586,CUST01787,SESS0000586,2025-08-20,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001196,CUST02440,SESS0001196,2025-08-20,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000290,CUST00878,SESS0000290,2025-08-21,Paid Social,Meta_Evergreen_Leggings,Tablet,0.15,Completed
+ORD001658,CUST01958,SESS0001658,2025-08-21,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001450,CUST01764,SESS0001450,2025-08-21,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001376,CUST02124,SESS0001376,2025-08-21,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000983,CUST01874,SESS0000983,2025-08-21,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001645,CUST02359,SESS0001645,2025-08-21,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000081,CUST02469,SESS0000081,2025-08-22,Paid Search,GAds_PMax_Shopping,Desktop,0.3,Completed
+ORD000867,CUST02147,SESS0000867,2025-08-22,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Refunded
+ORD000786,CUST00852,SESS0000786,2025-08-22,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD000984,CUST01415,SESS0000984,2025-08-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000914,CUST00717,SESS0000914,2025-08-22,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001917,CUST00389,SESS0001917,2025-08-22,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001685,CUST02042,SESS0001685,2025-08-22,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000849,CUST00339,SESS0000849,2025-08-22,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000272,CUST02477,SESS0000272,2025-08-23,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000694,CUST02079,SESS0000694,2025-08-23,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD000987,CUST00498,SESS0000987,2025-08-23,Direct,Direct_Brand_Traffic,Desktop,0.2,Completed
+ORD000312,CUST00222,SESS0000312,2025-08-23,Email,Email_Welcome_Flow_10Off,Desktop,0.0,Completed
+ORD001198,CUST01075,SESS0001198,2025-08-23,Paid Social,Meta_Festive_Sale_Promo,Tablet,0.1,Completed
+ORD000973,CUST00053,SESS0000973,2025-08-23,Organic Search,Organic_SEO_Content,Mobile,0.2,Refunded
+ORD001958,CUST01899,SESS0001958,2025-08-23,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001282,CUST00243,SESS0001282,2025-08-24,Email,Email_Winback_Inactive_90D,Mobile,0.15,Completed
+ORD000847,CUST00829,SESS0000847,2025-08-24,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001439,CUST01834,SESS0001439,2025-08-24,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD000261,CUST00496,SESS0000261,2025-08-24,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD001364,CUST01448,SESS0001364,2025-08-25,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001935,CUST01326,SESS0001935,2025-08-25,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001042,CUST02009,SESS0001042,2025-08-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001555,CUST00280,SESS0001555,2025-08-25,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000165,CUST01918,SESS0000165,2025-08-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001106,CUST02439,SESS0001106,2025-08-26,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000211,CUST02002,SESS0000211,2025-08-26,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000283,CUST01354,SESS0000283,2025-08-26,Email,Email_Winback_Inactive_90D,Mobile,0.2,Completed
+ORD000727,CUST02438,SESS0000727,2025-08-26,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD000599,CUST01649,SESS0000599,2025-08-26,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000371,CUST00778,SESS0000371,2025-08-26,Paid Social,Meta_Festive_Sale_Promo,Tablet,0.0,Completed
+ORD001306,CUST00879,SESS0001306,2025-08-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001535,CUST00316,SESS0001535,2025-08-27,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000731,CUST02274,SESS0000731,2025-08-27,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Completed
+ORD000736,CUST00922,SESS0000736,2025-08-27,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000744,CUST01593,SESS0000744,2025-08-27,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Refunded
+ORD001944,CUST00478,SESS0001944,2025-08-27,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001860,CUST01803,SESS0001860,2025-08-27,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD000359,CUST00241,SESS0000359,2025-08-27,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001549,CUST01424,SESS0001549,2025-08-27,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001724,CUST01919,SESS0001724,2025-08-27,Email,Email_Cart_Recovery_Series,Mobile,0.15,Completed
+ORD001703,CUST01675,SESS0001703,2025-08-28,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000038,CUST00654,SESS0000038,2025-08-28,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000097,CUST00670,SESS0000097,2025-08-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000594,CUST00511,SESS0000594,2025-08-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000049,CUST01557,SESS0000049,2025-08-28,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001928,CUST00044,SESS0001928,2025-08-29,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD000046,CUST00419,SESS0000046,2025-08-29,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.0,Completed
+ORD001879,CUST02434,SESS0001879,2025-08-29,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001031,CUST00742,SESS0001031,2025-08-29,Email,Email_Welcome_Flow_10Off,Mobile,0.2,Completed
+ORD000789,CUST00424,SESS0000789,2025-08-29,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.1,Completed
+ORD001231,CUST01824,SESS0001231,2025-08-29,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000569,CUST01070,SESS0000569,2025-08-30,Paid Social,Meta_Retargeting_Catalog,Mobile,0.3,Completed
+ORD001604,CUST00312,SESS0001604,2025-08-30,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD000845,CUST01391,SESS0000845,2025-08-30,Paid Search,GAds_PMax_Shopping,Desktop,0.1,Completed
+ORD001529,CUST02129,SESS0001529,2025-08-30,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000252,CUST01277,SESS0000252,2025-08-30,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000047,CUST00380,SESS0000047,2025-08-30,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Refunded
+ORD001235,CUST01542,SESS0001235,2025-08-30,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001715,CUST00494,SESS0001715,2025-08-30,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001577,CUST01113,SESS0001577,2025-08-31,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD000769,CUST02277,SESS0000769,2025-08-31,Paid Social,Meta_Evergreen_Leggings,Desktop,0.1,Completed
+ORD000587,CUST00007,SESS0000587,2025-08-31,Direct,Direct_Brand_Traffic,Desktop,0.3,Completed
+ORD001277,CUST00175,SESS0001277,2025-08-31,Email,Email_Winback_Inactive_90D,Tablet,0.0,Completed
+ORD000074,CUST00934,SESS0000074,2025-08-31,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD000292,CUST00542,SESS0000292,2025-08-31,Paid Social,Meta_Summer_Active_Drop,Desktop,0.15,Completed
+ORD000242,CUST02252,SESS0000242,2025-08-31,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.15,Completed
+ORD000964,CUST02217,SESS0000964,2025-08-31,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001228,CUST00599,SESS0001228,2025-08-31,Email,Email_Winback_Inactive_90D,Mobile,0.0,Cancelled
+ORD000399,CUST00492,SESS0000399,2025-09-01,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001381,CUST01771,SESS0001381,2025-09-01,Paid Social,Meta_Retargeting_Catalog,Desktop,0.3,Completed
+ORD000752,CUST02123,SESS0000752,2025-09-01,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001332,CUST01563,SESS0001332,2025-09-01,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000635,CUST00408,SESS0000635,2025-09-01,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000504,CUST00148,SESS0000504,2025-09-02,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000301,CUST00398,SESS0000301,2025-09-02,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.1,Completed
+ORD000703,CUST01145,SESS0000703,2025-09-02,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001916,CUST01396,SESS0001916,2025-09-02,Paid Search,GAds_Category_Athleisure,Mobile,0.3,Completed
+ORD001202,CUST00580,SESS0001202,2025-09-02,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD000734,CUST01765,SESS0000734,2025-09-02,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001717,CUST01195,SESS0001717,2025-09-02,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD000455,CUST01227,SESS0000455,2025-09-02,Organic Search,Organic_SEO_Content,Desktop,0.15,Completed
+ORD000812,CUST00013,SESS0000812,2025-09-03,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001461,CUST00658,SESS0001461,2025-09-03,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000418,CUST01088,SESS0000418,2025-09-03,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000122,CUST01621,SESS0000122,2025-09-03,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001217,CUST02201,SESS0001217,2025-09-03,Email,Email_Welcome_Flow_10Off,Mobile,0.2,Completed
+ORD000021,CUST00953,SESS0000021,2025-09-03,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD000061,CUST00512,SESS0000061,2025-09-03,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001037,CUST00942,SESS0001037,2025-09-04,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001488,CUST00828,SESS0001488,2025-09-04,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD000762,CUST00166,SESS0000762,2025-09-04,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000430,CUST00410,SESS0000430,2025-09-04,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001467,CUST00676,SESS0001467,2025-09-04,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000434,CUST00874,SESS0000434,2025-09-04,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001763,CUST00045,SESS0001763,2025-09-04,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000675,CUST01538,SESS0000675,2025-09-04,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000128,CUST01011,SESS0000128,2025-09-05,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001768,CUST01956,SESS0001768,2025-09-05,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001569,CUST00305,SESS0001569,2025-09-05,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001263,CUST00152,SESS0001263,2025-09-05,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000637,CUST00051,SESS0000637,2025-09-05,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD001677,CUST00202,SESS0001677,2025-09-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001816,CUST00750,SESS0001816,2025-09-05,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD001419,CUST00165,SESS0001419,2025-09-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000341,CUST02255,SESS0000341,2025-09-06,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001921,CUST01500,SESS0001921,2025-09-06,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001212,CUST00029,SESS0001212,2025-09-06,Email,Email_VIP_Early_Access,Desktop,0.15,Completed
+ORD000745,CUST01068,SESS0000745,2025-09-06,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001245,CUST00583,SESS0001245,2025-09-06,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000425,CUST01873,SESS0000425,2025-09-06,Paid Search,GAds_Brand_Exact,Mobile,0.15,Cancelled
+ORD001910,CUST01572,SESS0001910,2025-09-06,Direct,Direct_Brand_Traffic,Tablet,0.1,Completed
+ORD001755,CUST00782,SESS0001755,2025-09-06,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD000821,CUST01712,SESS0000821,2025-09-06,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000056,CUST00178,SESS0000056,2025-09-07,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD001248,CUST00962,SESS0001248,2025-09-07,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001039,CUST02139,SESS0001039,2025-09-07,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001427,CUST00513,SESS0001427,2025-09-07,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000190,CUST02080,SESS0000190,2025-09-07,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000796,CUST02383,SESS0000796,2025-09-07,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001634,CUST01560,SESS0001634,2025-09-07,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000897,CUST01861,SESS0000897,2025-09-08,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001244,CUST02063,SESS0001244,2025-09-08,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000205,CUST02210,SESS0000205,2025-09-08,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001399,CUST00340,SESS0001399,2025-09-08,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001091,CUST02246,SESS0001091,2025-09-08,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000225,CUST02412,SESS0000225,2025-09-09,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001895,CUST02316,SESS0001895,2025-09-09,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.3,Completed
+ORD001630,CUST00317,SESS0001630,2025-09-09,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000512,CUST00172,SESS0000512,2025-09-09,Email,Email_Cart_Recovery_Series,Desktop,0.15,Completed
+ORD000488,CUST00015,SESS0000488,2025-09-09,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD001152,CUST02165,SESS0001152,2025-09-09,Paid Search,GAds_Competitor_Conquest,Tablet,0.0,Completed
+ORD000123,CUST01880,SESS0000123,2025-09-09,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Refunded
+ORD001139,CUST01885,SESS0001139,2025-09-09,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.2,Completed
+ORD000333,CUST02301,SESS0000333,2025-09-10,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001500,CUST00741,SESS0001500,2025-09-10,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD001368,CUST01995,SESS0001368,2025-09-10,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000682,CUST02410,SESS0000682,2025-09-10,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000913,CUST00107,SESS0000913,2025-09-10,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001046,CUST01333,SESS0001046,2025-09-10,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001852,CUST01461,SESS0001852,2025-09-10,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000610,CUST01176,SESS0000610,2025-09-10,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000248,CUST02209,SESS0000248,2025-09-10,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000909,CUST01535,SESS0000909,2025-09-10,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.2,Completed
+ORD000483,CUST00209,SESS0000483,2025-09-10,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000111,CUST01097,SESS0000111,2025-09-10,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001595,CUST02259,SESS0001595,2025-09-11,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Cancelled
+ORD001574,CUST00681,SESS0001574,2025-09-11,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.15,Completed
+ORD001894,CUST00203,SESS0001894,2025-09-11,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000729,CUST01123,SESS0000729,2025-09-11,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Refunded
+ORD000392,CUST02081,SESS0000392,2025-09-11,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000017,CUST00384,SESS0000017,2025-09-11,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001181,CUST01561,SESS0001181,2025-09-11,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001610,CUST00680,SESS0001610,2025-09-12,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000201,CUST02387,SESS0000201,2025-09-12,Direct,Direct_Brand_Traffic,Tablet,0.1,Completed
+ORD001007,CUST01603,SESS0001007,2025-09-12,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Refunded
+ORD000016,CUST00123,SESS0000016,2025-09-12,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000239,CUST01947,SESS0000239,2025-09-12,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.3,Completed
+ORD000778,CUST02179,SESS0000778,2025-09-12,Email,Email_Winback_Inactive_90D,Mobile,0.2,Completed
+ORD001178,CUST00245,SESS0001178,2025-09-12,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000993,CUST00618,SESS0000993,2025-09-13,Paid Search,GAds_Brand_Exact,Desktop,0.2,Completed
+ORD001660,CUST01109,SESS0001660,2025-09-13,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000142,CUST00899,SESS0000142,2025-09-13,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000974,CUST00639,SESS0000974,2025-09-13,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001540,CUST00560,SESS0001540,2025-09-13,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD000885,CUST00777,SESS0000885,2025-09-13,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001655,CUST02127,SESS0001655,2025-09-13,Paid Social,Meta_Spring_Sculpt,Tablet,0.1,Completed
+ORD001142,CUST00499,SESS0001142,2025-09-13,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Refunded
+ORD000285,CUST02106,SESS0000285,2025-09-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Cancelled
+ORD001683,CUST00614,SESS0001683,2025-09-14,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.2,Completed
+ORD000233,CUST00284,SESS0000233,2025-09-14,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD001670,CUST00589,SESS0001670,2025-09-14,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001317,CUST02048,SESS0001317,2025-09-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000045,CUST01379,SESS0000045,2025-09-14,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000938,CUST00489,SESS0000938,2025-09-14,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000503,CUST00611,SESS0000503,2025-09-14,Paid Social,Meta_Summer_Active_Drop,Desktop,0.15,Completed
+ORD000006,CUST00572,SESS0000006,2025-09-14,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001437,CUST00552,SESS0001437,2025-09-14,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD000837,CUST00893,SESS0000837,2025-09-14,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD000809,CUST01180,SESS0000809,2025-09-15,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000216,CUST00080,SESS0000216,2025-09-15,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001981,CUST00224,SESS0001981,2025-09-15,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Refunded
+ORD001208,CUST00368,SESS0001208,2025-09-15,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001735,CUST00708,SESS0001735,2025-09-15,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000404,CUST00163,SESS0000404,2025-09-15,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD001586,CUST01172,SESS0001586,2025-09-15,Email,Email_Winback_Inactive_90D,Desktop,0.3,Cancelled
+ORD000315,CUST00404,SESS0000315,2025-09-15,Paid Social,Meta_Spring_Sculpt,Desktop,0.15,Completed
+ORD001043,CUST01503,SESS0001043,2025-09-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000321,CUST00448,SESS0000321,2025-09-16,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001892,CUST01395,SESS0001892,2025-09-16,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD001498,CUST01062,SESS0001498,2025-09-16,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.2,Completed
+ORD001193,CUST02393,SESS0001193,2025-09-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000269,CUST02269,SESS0000269,2025-09-16,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001200,CUST02361,SESS0001200,2025-09-16,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000678,CUST01814,SESS0000678,2025-09-16,Organic Search,Organic_SEO_Content,Desktop,0.15,Completed
+ORD000869,CUST02481,SESS0000869,2025-09-16,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD001987,CUST01960,SESS0001987,2025-09-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001189,CUST02151,SESS0001189,2025-09-16,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001959,CUST01899,SESS0001959,2025-09-16,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD000411,CUST00837,SESS0000411,2025-09-17,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001956,CUST00226,SESS0001956,2025-09-17,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000999,CUST01230,SESS0000999,2025-09-17,Email,Email_Winback_Inactive_90D,Mobile,0.15,Completed
+ORD000696,CUST01738,SESS0000696,2025-09-17,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000281,CUST00129,SESS0000281,2025-09-18,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001866,CUST00130,SESS0001866,2025-09-18,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001731,CUST00324,SESS0001731,2025-09-18,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD000948,CUST00525,SESS0000948,2025-09-18,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001251,CUST01906,SESS0001251,2025-09-19,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001000,CUST02281,SESS0001000,2025-09-19,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000107,CUST01293,SESS0000107,2025-09-19,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Refunded
+ORD000256,CUST01530,SESS0000256,2025-09-19,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001375,CUST00479,SESS0001375,2025-09-19,Paid Search,GAds_Brand_Exact,Desktop,0.2,Completed
+ORD001028,CUST00888,SESS0001028,2025-09-19,Paid Social,Meta_Evergreen_Leggings,Mobile,0.2,Completed
+ORD000792,CUST00798,SESS0000792,2025-09-19,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000051,CUST00397,SESS0000051,2025-09-20,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000091,CUST00859,SESS0000091,2025-09-20,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000307,CUST01452,SESS0000307,2025-09-20,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD001010,CUST00085,SESS0001010,2025-09-20,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001602,CUST01336,SESS0001602,2025-09-20,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001773,CUST00101,SESS0001773,2025-09-20,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001568,CUST02428,SESS0001568,2025-09-20,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.2,Completed
+ORD000459,CUST00425,SESS0000459,2025-09-20,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD000630,CUST00461,SESS0000630,2025-09-20,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000945,CUST02485,SESS0000945,2025-09-20,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001194,CUST01884,SESS0001194,2025-09-21,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001220,CUST00094,SESS0001220,2025-09-21,Email,Email_Winback_Inactive_90D,Mobile,0.15,Completed
+ORD000737,CUST00531,SESS0000737,2025-09-21,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000932,CUST00042,SESS0000932,2025-09-21,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000067,CUST01482,SESS0000067,2025-09-21,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000193,CUST00436,SESS0000193,2025-09-21,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001537,CUST01443,SESS0001537,2025-09-22,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Refunded
+ORD000525,CUST02257,SESS0000525,2025-09-22,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001087,CUST00059,SESS0001087,2025-09-22,Paid Search,GAds_Brand_Exact,Desktop,0.3,Completed
+ORD000717,CUST01255,SESS0000717,2025-09-22,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD000581,CUST01788,SESS0000581,2025-09-22,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001192,CUST00992,SESS0001192,2025-09-22,Email,Email_Cart_Recovery_Series,Mobile,0.15,Refunded
+ORD000115,CUST00272,SESS0000115,2025-09-22,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD001410,CUST01596,SESS0001410,2025-09-23,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000567,CUST00114,SESS0000567,2025-09-23,Email,Email_Welcome_Flow_10Off,Tablet,0.0,Completed
+ORD000967,CUST02284,SESS0000967,2025-09-23,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD000854,CUST00262,SESS0000854,2025-09-23,Email,Email_Cart_Recovery_Series,Mobile,0.0,Refunded
+ORD000697,CUST02423,SESS0000697,2025-09-23,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001578,CUST01113,SESS0001578,2025-09-24,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000988,CUST00498,SESS0000988,2025-09-24,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001792,CUST01614,SESS0001792,2025-09-24,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD000253,CUST01277,SESS0000253,2025-09-24,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001732,CUST01604,SESS0001732,2025-09-24,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000439,CUST02073,SESS0000439,2025-09-24,Direct,Direct_Brand_Traffic,Desktop,0.2,Completed
+ORD001696,CUST02131,SESS0001696,2025-09-25,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001236,CUST01542,SESS0001236,2025-09-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001760,CUST00606,SESS0001760,2025-09-25,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000120,CUST00871,SESS0000120,2025-09-25,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD001440,CUST00359,SESS0001440,2025-09-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001751,CUST00990,SESS0001751,2025-09-25,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001018,CUST00142,SESS0001018,2025-09-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Completed
+ORD000763,CUST02339,SESS0000763,2025-09-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.3,Completed
+ORD000361,CUST01553,SESS0000361,2025-09-25,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD001646,CUST02359,SESS0001646,2025-09-25,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD000130,CUST02208,SESS0000130,2025-09-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Refunded
+ORD001463,CUST02449,SESS0001463,2025-09-26,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001167,CUST02102,SESS0001167,2025-09-26,Email,Email_Welcome_Flow_10Off,Mobile,0.2,Completed
+ORD000293,CUST00542,SESS0000293,2025-09-26,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD001509,CUST00547,SESS0001509,2025-09-26,Organic Search,Organic_SEO_Content,Desktop,0.0,Refunded
+ORD000194,CUST01223,SESS0000194,2025-09-26,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD001743,CUST01502,SESS0001743,2025-09-27,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001243,CUST01971,SESS0001243,2025-09-27,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000568,CUST02180,SESS0000568,2025-09-28,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001820,CUST00337,SESS0001820,2025-09-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000671,CUST02460,SESS0000671,2025-09-28,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000127,CUST02495,SESS0000127,2025-09-28,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001564,CUST01911,SESS0001564,2025-09-28,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001337,CUST02227,SESS0001337,2025-09-28,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD001934,CUST00421,SESS0001934,2025-09-28,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000064,CUST02262,SESS0000064,2025-09-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001296,CUST01071,SESS0001296,2025-09-29,Paid Social,Meta_Evergreen_Leggings,Tablet,0.2,Completed
+ORD001581,CUST00660,SESS0001581,2025-09-29,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001494,CUST00947,SESS0001494,2025-09-29,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD001868,CUST01271,SESS0001868,2025-09-29,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001146,CUST01192,SESS0001146,2025-09-29,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Cancelled
+ORD001528,CUST00836,SESS0001528,2025-09-30,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD001855,CUST00755,SESS0001855,2025-09-30,Paid Social,Meta_Evergreen_Leggings,Desktop,0.3,Refunded
+ORD000891,CUST02427,SESS0000891,2025-09-30,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001623,CUST00032,SESS0001623,2025-09-30,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001301,CUST00609,SESS0001301,2025-09-30,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001451,CUST01764,SESS0001451,2025-09-30,Direct,Direct_Brand_Traffic,Tablet,0.0,Completed
+ORD001389,CUST01598,SESS0001389,2025-09-30,Paid Search,GAds_Category_Athleisure,Tablet,0.0,Completed
+ORD000154,CUST00627,SESS0000154,2025-10-01,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000626,CUST02260,SESS0000626,2025-10-01,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001059,CUST01893,SESS0001059,2025-10-01,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD000958,CUST01821,SESS0000958,2025-10-01,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000871,CUST00278,SESS0000871,2025-10-01,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000799,CUST01425,SESS0000799,2025-10-01,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001032,CUST00742,SESS0001032,2025-10-02,Organic Search,Organic_SEO_Content,Mobile,0.0,Refunded
+ORD001898,CUST01468,SESS0001898,2025-10-02,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001359,CUST00067,SESS0001359,2025-10-02,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001954,CUST00358,SESS0001954,2025-10-02,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD001403,CUST00592,SESS0001403,2025-10-02,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000908,CUST02156,SESS0000908,2025-10-02,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000101,CUST02282,SESS0000101,2025-10-02,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.15,Completed
+ORD001182,CUST01414,SESS0001182,2025-10-02,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD000652,CUST00849,SESS0000652,2025-10-03,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000782,CUST00835,SESS0000782,2025-10-03,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.15,Completed
+ORD000842,CUST00689,SESS0000842,2025-10-03,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001101,CUST00698,SESS0001101,2025-10-03,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.1,Completed
+ORD000604,CUST00713,SESS0000604,2025-10-04,Paid Social,Meta_Spring_Sculpt,Tablet,0.0,Completed
+ORD000325,CUST02292,SESS0000325,2025-10-04,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001414,CUST00558,SESS0001414,2025-10-04,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000923,CUST00083,SESS0000923,2025-10-04,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000834,CUST02388,SESS0000834,2025-10-04,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000654,CUST01815,SESS0000654,2025-10-04,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000954,CUST01244,SESS0000954,2025-10-04,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001809,CUST00271,SESS0001809,2025-10-04,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000767,CUST02092,SESS0000767,2025-10-05,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD000894,CUST01802,SESS0000894,2025-10-05,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000159,CUST01730,SESS0000159,2025-10-05,Email,Email_Welcome_Flow_10Off,Mobile,0.1,Completed
+ORD000349,CUST00969,SESS0000349,2025-10-05,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000472,CUST01405,SESS0000472,2025-10-05,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD000070,CUST00285,SESS0000070,2025-10-05,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD000456,CUST01227,SESS0000456,2025-10-05,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Refunded
+ORD001144,CUST01360,SESS0001144,2025-10-05,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD001919,CUST01444,SESS0001919,2025-10-05,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001130,CUST01624,SESS0001130,2025-10-06,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001426,CUST01237,SESS0001426,2025-10-06,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001114,CUST00833,SESS0001114,2025-10-06,Paid Social,Meta_Summer_Active_Drop,Mobile,0.2,Completed
+ORD000352,CUST01665,SESS0000352,2025-10-06,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.1,Refunded
+ORD001853,CUST01461,SESS0001853,2025-10-06,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001939,CUST02183,SESS0001939,2025-10-07,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD000614,CUST01320,SESS0000614,2025-10-07,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD000919,CUST00141,SESS0000919,2025-10-07,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001286,CUST01143,SESS0001286,2025-10-07,Email,Email_Welcome_Flow_10Off,Desktop,0.15,Completed
+ORD001201,CUST02361,SESS0001201,2025-10-08,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000876,CUST00946,SESS0000876,2025-10-08,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000537,CUST02374,SESS0000537,2025-10-08,Organic Search,Organic_SEO_Content,Tablet,0.0,Completed
+ORD000137,CUST01483,SESS0000137,2025-10-09,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001673,CUST00186,SESS0001673,2025-10-09,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000002,CUST00103,SESS0000002,2025-10-09,Paid Social,Meta_Retargeting_Catalog,Tablet,0.15,Completed
+ORD000182,CUST01079,SESS0000182,2025-10-09,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001575,CUST00681,SESS0001575,2025-10-09,Email,Email_Winback_Inactive_90D,Desktop,0.2,Completed
+ORD000057,CUST00178,SESS0000057,2025-10-09,Organic Search,Organic_SEO_Content,Desktop,0.15,Completed
+ORD000405,CUST00336,SESS0000405,2025-10-09,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD001811,CUST01842,SESS0001811,2025-10-09,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD000516,CUST01494,SESS0000516,2025-10-09,Email,Email_VIP_Early_Access,Desktop,0.1,Refunded
+ORD000819,CUST01748,SESS0000819,2025-10-10,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD001663,CUST01837,SESS0001663,2025-10-10,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001830,CUST00155,SESS0001830,2025-10-10,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD001250,CUST02312,SESS0001250,2025-10-10,Direct,Direct_Brand_Traffic,Mobile,0.1,Refunded
+ORD001269,CUST00110,SESS0001269,2025-10-11,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001261,CUST01008,SESS0001261,2025-10-11,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD001340,CUST02220,SESS0001340,2025-10-11,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD000124,CUST01880,SESS0000124,2025-10-11,Email,Email_Welcome_Flow_10Off,Desktop,0.0,Completed
+ORD001170,CUST01478,SESS0001170,2025-10-11,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Cancelled
+ORD001874,CUST00077,SESS0001874,2025-10-11,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD000191,CUST02080,SESS0000191,2025-10-11,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001422,CUST00885,SESS0001422,2025-10-11,Paid Social,Meta_Evergreen_Leggings,Mobile,0.2,Completed
+ORD001315,CUST01165,SESS0001315,2025-10-11,Organic Search,Organic_SEO_Content,Mobile,0.0,Refunded
+ORD001474,CUST02104,SESS0001474,2025-10-12,Paid Search,GAds_Category_Athleisure,Mobile,0.3,Completed
+ORD001393,CUST00292,SESS0001393,2025-10-12,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001977,CUST01694,SESS0001977,2025-10-12,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001512,CUST00590,SESS0001512,2025-10-12,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000536,CUST01017,SESS0000536,2025-10-12,Paid Search,GAds_Brand_Exact,Tablet,0.0,Completed
+ORD000446,CUST01168,SESS0000446,2025-10-12,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD000287,CUST00975,SESS0000287,2025-10-12,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000351,CUST00682,SESS0000351,2025-10-13,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001725,CUST01919,SESS0001725,2025-10-13,Email,Email_Welcome_Flow_10Off,Desktop,0.2,Completed
+ORD001001,CUST02281,SESS0001001,2025-10-13,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000975,CUST01916,SESS0000975,2025-10-13,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000414,CUST01287,SESS0000414,2025-10-14,Organic Search,Organic_SEO_Content,Mobile,0.2,Refunded
+ORD001554,CUST01041,SESS0001554,2025-10-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000946,CUST02485,SESS0000946,2025-10-14,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD000783,CUST00678,SESS0000783,2025-10-14,Email,Email_VIP_Early_Access,Desktop,0.2,Completed
+ORD001396,CUST00147,SESS0001396,2025-10-14,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000825,CUST01505,SESS0000825,2025-10-14,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001187,CUST00444,SESS0001187,2025-10-14,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD000378,CUST00240,SESS0000378,2025-10-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Refunded
+ORD001905,CUST00911,SESS0001905,2025-10-15,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001545,CUST00989,SESS0001545,2025-10-15,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD001270,CUST00311,SESS0001270,2025-10-15,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000601,CUST00522,SESS0000601,2025-10-16,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD000980,CUST00407,SESS0000980,2025-10-16,Paid Social,Meta_Summer_Active_Drop,Desktop,0.15,Completed
+ORD000807,CUST01568,SESS0000807,2025-10-16,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000922,CUST01335,SESS0000922,2025-10-16,Direct,Direct_Brand_Traffic,Mobile,0.0,Cancelled
+ORD001862,CUST00966,SESS0001862,2025-10-16,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD000083,CUST01858,SESS0000083,2025-10-16,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001344,CUST01131,SESS0001344,2025-10-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001769,CUST01956,SESS0001769,2025-10-16,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD000480,CUST01029,SESS0000480,2025-10-16,Organic Search,Organic_SEO_Content,Tablet,0.15,Completed
+ORD001487,CUST02345,SESS0001487,2025-10-17,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000749,CUST00490,SESS0000749,2025-10-17,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.0,Completed
+ORD000373,CUST00892,SESS0000373,2025-10-18,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000517,CUST00164,SESS0000517,2025-10-18,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001029,CUST00888,SESS0001029,2025-10-18,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000679,CUST01814,SESS0000679,2025-10-18,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000432,CUST00301,SESS0000432,2025-10-18,Email,Email_Cart_Recovery_Series,Mobile,0.15,Completed
+ORD000508,CUST01761,SESS0000508,2025-10-18,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Completed
+ORD001922,CUST01500,SESS0001922,2025-10-18,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001041,CUST02239,SESS0001041,2025-10-19,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD001425,CUST02166,SESS0001425,2025-10-19,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001177,CUST02189,SESS0001177,2025-10-19,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD000426,CUST02214,SESS0000426,2025-10-19,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000770,CUST02277,SESS0000770,2025-10-19,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001264,CUST00152,SESS0001264,2025-10-19,Paid Social,Meta_Spring_Sculpt,Desktop,0.3,Completed
+ORD001289,CUST01566,SESS0001289,2025-10-19,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000276,CUST00242,SESS0000276,2025-10-19,Organic Search,Organic_SEO_Content,Desktop,0.15,Completed
+ORD000442,CUST01430,SESS0000442,2025-10-19,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Refunded
+ORD001803,CUST01857,SESS0001803,2025-10-19,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000499,CUST00040,SESS0000499,2025-10-20,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001490,CUST01054,SESS0001490,2025-10-20,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001882,CUST01325,SESS0001882,2025-10-20,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001988,CUST01960,SESS0001988,2025-10-20,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001388,CUST02083,SESS0001388,2025-10-20,Organic Search,Organic_SEO_Content,Tablet,0.15,Completed
+ORD000804,CUST02398,SESS0000804,2025-10-20,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000105,CUST00230,SESS0000105,2025-10-20,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD000151,CUST00450,SESS0000151,2025-10-21,Organic Search,Organic_SEO_Content,Desktop,0.3,Completed
+ORD000146,CUST00567,SESS0000146,2025-10-21,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000313,CUST00222,SESS0000313,2025-10-21,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000087,CUST00667,SESS0000087,2025-10-21,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000817,CUST01544,SESS0000817,2025-10-21,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001819,CUST02426,SESS0001819,2025-10-21,Email,Email_Winback_Inactive_90D,Desktop,0.3,Completed
+ORD001714,CUST01270,SESS0001714,2025-10-21,Paid Social,Meta_Festive_Sale_Promo,Tablet,0.1,Completed
+ORD000900,CUST01704,SESS0000900,2025-10-21,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD001132,CUST00036,SESS0001132,2025-10-21,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000079,CUST00414,SESS0000079,2025-10-22,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000711,CUST01547,SESS0000711,2025-10-22,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001168,CUST02102,SESS0001168,2025-10-22,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD001149,CUST02014,SESS0001149,2025-10-22,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000452,CUST00033,SESS0000452,2025-10-22,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000495,CUST01810,SESS0000495,2025-10-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001744,CUST01502,SESS0001744,2025-10-22,Email,Email_Welcome_Flow_10Off,Mobile,0.3,Completed
+ORD001079,CUST02023,SESS0001079,2025-10-22,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001135,CUST00191,SESS0001135,2025-10-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000451,CUST02167,SESS0000451,2025-10-23,Organic Search,Organic_SEO_Content,Mobile,0.0,Refunded
+ORD000322,CUST00448,SESS0000322,2025-10-23,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001766,CUST00811,SESS0001766,2025-10-23,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD001784,CUST00514,SESS0001784,2025-10-23,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000355,CUST01972,SESS0000355,2025-10-23,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.0,Completed
+ORD001180,CUST01098,SESS0001180,2025-10-24,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000409,CUST01296,SESS0000409,2025-10-24,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Refunded
+ORD000546,CUST01433,SESS0000546,2025-10-24,Paid Search,GAds_PMax_Shopping,Desktop,0.2,Completed
+ORD001736,CUST00708,SESS0001736,2025-10-24,Email,Email_Winback_Inactive_90D,Desktop,0.1,Completed
+ORD000443,CUST00282,SESS0000443,2025-10-24,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.1,Completed
+ORD001008,CUST01603,SESS0001008,2025-10-24,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000618,CUST02158,SESS0000618,2025-10-24,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001386,CUST02177,SESS0001386,2025-10-24,Paid Search,GAds_Category_Athleisure,Desktop,0.2,Cancelled
+ORD001618,CUST01078,SESS0001618,2025-10-24,Direct,Direct_Brand_Traffic,Desktop,0.0,Cancelled
+ORD000143,CUST00899,SESS0000143,2025-10-25,Email,Email_Cart_Recovery_Series,Mobile,0.3,Completed
+ORD000435,CUST00874,SESS0000435,2025-10-25,Paid Search,GAds_PMax_Shopping,Mobile,0.2,Refunded
+ORD001430,CUST00469,SESS0001430,2025-10-25,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000924,CUST01545,SESS0000924,2025-10-25,Paid Search,GAds_Competitor_Conquest,Tablet,0.0,Completed
+ORD000683,CUST02410,SESS0000683,2025-10-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001728,CUST02037,SESS0001728,2025-10-25,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001471,CUST01015,SESS0001471,2025-10-25,Direct,Direct_Brand_Traffic,Mobile,0.0,Cancelled
+ORD001653,CUST00673,SESS0001653,2025-10-25,Organic Search,Organic_SEO_Content,Desktop,0.0,Cancelled
+ORD000573,CUST00445,SESS0000573,2025-10-25,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000428,CUST00039,SESS0000428,2025-10-25,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000712,CUST01826,SESS0000712,2025-10-25,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000075,CUST01186,SESS0000075,2025-10-25,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000108,CUST01293,SESS0000108,2025-10-26,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001002,CUST00248,SESS0001002,2025-10-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001303,CUST01206,SESS0001303,2025-10-26,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000910,CUST01105,SESS0000910,2025-10-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Refunded
+ORD000302,CUST00398,SESS0000302,2025-10-26,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD001896,CUST02316,SESS0001896,2025-10-27,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001543,CUST00851,SESS0001543,2025-10-27,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD001341,CUST00356,SESS0001341,2025-10-27,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.15,Completed
+ORD000790,CUST01706,SESS0000790,2025-10-27,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000813,CUST00013,SESS0000813,2025-10-27,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000650,CUST02116,SESS0000650,2025-10-27,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001455,CUST00187,SESS0001455,2025-10-27,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000444,CUST01001,SESS0000444,2025-10-27,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000701,CUST01368,SESS0000701,2025-10-27,Paid Social,Meta_Retargeting_Catalog,Desktop,0.15,Completed
+ORD001840,CUST02184,SESS0001840,2025-10-27,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001365,CUST01448,SESS0001365,2025-10-27,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001839,CUST02170,SESS0001839,2025-10-27,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001409,CUST01411,SESS0001409,2025-10-28,Paid Social,Meta_Spring_Sculpt,Desktop,0.3,Completed
+ORD000743,CUST01569,SESS0000743,2025-10-28,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000966,CUST00638,SESS0000966,2025-10-28,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD000941,CUST01372,SESS0000941,2025-10-28,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001123,CUST01458,SESS0001123,2025-10-28,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001708,CUST00349,SESS0001708,2025-10-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001121,CUST00976,SESS0001121,2025-10-28,Paid Search,GAds_Brand_Exact,Tablet,0.0,Completed
+ORD000933,CUST00042,SESS0000933,2025-10-28,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000898,CUST00570,SESS0000898,2025-10-28,Paid Social,Meta_Summer_Active_Drop,Tablet,0.1,Refunded
+ORD001857,CUST01198,SESS0001857,2025-10-29,Paid Social,Meta_Spring_Sculpt,Desktop,0.1,Completed
+ORD001293,CUST01847,SESS0001293,2025-10-29,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001969,CUST00544,SESS0001969,2025-10-29,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001077,CUST00924,SESS0001077,2025-10-29,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001411,CUST01434,SESS0001411,2025-10-29,Paid Search,GAds_Category_Athleisure,Desktop,0.2,Completed
+ORD000309,CUST01684,SESS0000309,2025-10-29,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD000850,CUST00339,SESS0000850,2025-10-29,Email,Email_Cart_Recovery_Series,Mobile,0.3,Completed
+ORD001516,CUST01998,SESS0001516,2025-10-29,Paid Social,Meta_Summer_Active_Drop,Tablet,0.1,Completed
+ORD000394,CUST00762,SESS0000394,2025-10-29,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000267,CUST01385,SESS0000267,2025-10-29,Email,Email_Welcome_Flow_10Off,Mobile,0.2,Completed
+ORD000970,CUST02444,SESS0000970,2025-10-29,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000616,CUST01905,SESS0000616,2025-10-29,Paid Search,GAds_Brand_Exact,Mobile,0.3,Completed
+ORD001536,CUST00316,SESS0001536,2025-10-30,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD000001,CUST00457,SESS0000001,2025-10-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000353,CUST01665,SESS0000353,2025-10-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000052,CUST00397,SESS0000052,2025-10-30,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD000234,CUST00284,SESS0000234,2025-10-30,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Completed
+ORD000071,CUST00285,SESS0000071,2025-10-30,Direct,Direct_Brand_Traffic,Tablet,0.0,Completed
+ORD000606,CUST01664,SESS0000606,2025-10-30,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.0,Completed
+ORD000339,CUST01816,SESS0000339,2025-10-30,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000575,CUST01780,SESS0000575,2025-10-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000161,CUST00261,SESS0000161,2025-10-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000706,CUST00650,SESS0000706,2025-10-31,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001739,CUST00869,SESS0001739,2025-10-31,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000228,CUST02453,SESS0000228,2025-10-31,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001693,CUST00601,SESS0001693,2025-10-31,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD000607,CUST00002,SESS0000607,2025-10-31,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001378,CUST01281,SESS0001378,2025-11-01,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000473,CUST01405,SESS0000473,2025-11-01,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001911,CUST00753,SESS0001911,2025-11-01,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001055,CUST01587,SESS0001055,2025-11-01,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Refunded
+ORD000467,CUST01155,SESS0000467,2025-11-01,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.1,Completed
+ORD001392,CUST00545,SESS0001392,2025-11-01,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD001346,CUST00154,SESS0001346,2025-11-01,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD001572,CUST02074,SESS0001572,2025-11-01,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000844,CUST01370,SESS0000844,2025-11-01,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.3,Completed
+ORD000109,CUST01644,SESS0000109,2025-11-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001462,CUST00658,SESS0001462,2025-11-02,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000310,CUST01913,SESS0000310,2025-11-02,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001533,CUST02334,SESS0001533,2025-11-02,Paid Social,Meta_Retargeting_Catalog,Tablet,0.0,Completed
+ORD000950,CUST01571,SESS0000950,2025-11-02,Paid Search,GAds_Brand_Exact,Mobile,0.1,Completed
+ORD001047,CUST01333,SESS0001047,2025-11-02,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001249,CUST02346,SESS0001249,2025-11-02,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001823,CUST02344,SESS0001823,2025-11-02,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001275,CUST00623,SESS0001275,2025-11-02,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000996,CUST01402,SESS0000996,2025-11-02,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000178,CUST01781,SESS0000178,2025-11-02,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001069,CUST00503,SESS0001069,2025-11-03,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD001318,CUST02048,SESS0001318,2025-11-03,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001199,CUST01075,SESS0001199,2025-11-03,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD000203,CUST01532,SESS0000203,2025-11-03,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD001668,CUST02417,SESS0001668,2025-11-03,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001674,CUST00186,SESS0001674,2025-11-03,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001764,CUST00045,SESS0001764,2025-11-03,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD000294,CUST00542,SESS0000294,2025-11-03,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000590,CUST01767,SESS0000590,2025-11-04,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD001214,CUST01451,SESS0001214,2025-11-04,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001749,CUST02409,SESS0001749,2025-11-04,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD000044,CUST00882,SESS0000044,2025-11-04,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD001287,CUST01143,SESS0001287,2025-11-04,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD000811,CUST00977,SESS0000811,2025-11-04,Organic Search,Organic_SEO_Content,Tablet,0.0,Completed
+ORD001842,CUST00809,SESS0001842,2025-11-04,Paid Search,GAds_Competitor_Conquest,Desktop,0.15,Completed
+ORD000149,CUST00373,SESS0000149,2025-11-04,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.1,Completed
+ORD001687,CUST00665,SESS0001687,2025-11-04,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD001374,CUST01408,SESS0001374,2025-11-04,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000338,CUST00309,SESS0000338,2025-11-04,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001756,CUST00782,SESS0001756,2025-11-05,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001539,CUST01043,SESS0001539,2025-11-05,Paid Social,Meta_Summer_Active_Drop,Mobile,0.3,Completed
+ORD001929,CUST00044,SESS0001929,2025-11-05,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.2,Completed
+ORD000518,CUST01466,SESS0000518,2025-11-05,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001260,CUST00821,SESS0001260,2025-11-05,Organic Search,Organic_SEO_Content,Desktop,0.15,Completed
+ORD000585,CUST00182,SESS0000585,2025-11-05,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001136,CUST00603,SESS0001136,2025-11-05,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD000460,CUST00551,SESS0000460,2025-11-05,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001449,CUST01199,SESS0001449,2025-11-05,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD001360,CUST00475,SESS0001360,2025-11-05,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.1,Completed
+ORD000583,CUST00779,SESS0000583,2025-11-06,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD000612,CUST02149,SESS0000612,2025-11-06,Paid Social,Meta_Summer_Active_Drop,Desktop,0.0,Completed
+ORD000624,CUST01163,SESS0000624,2025-11-06,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001394,CUST00292,SESS0001394,2025-11-06,Email,Email_Cart_Recovery_Series,Desktop,0.2,Completed
+ORD000212,CUST02002,SESS0000212,2025-11-06,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000835,CUST02388,SESS0000835,2025-11-06,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000077,CUST00954,SESS0000077,2025-11-06,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000323,CUST01019,SESS0000323,2025-11-07,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001229,CUST00599,SESS0001229,2025-11-07,Email,Email_VIP_Early_Access,Desktop,0.1,Completed
+ORD001103,CUST01221,SESS0001103,2025-11-07,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.3,Completed
+ORD000843,CUST00689,SESS0000843,2025-11-07,Paid Search,GAds_Competitor_Conquest,Tablet,0.0,Completed
+ORD001647,CUST02359,SESS0001647,2025-11-07,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001870,CUST01476,SESS0001870,2025-11-07,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD001092,CUST02246,SESS0001092,2025-11-07,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001649,CUST01509,SESS0001649,2025-11-07,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000649,CUST00150,SESS0000649,2025-11-07,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001962,CUST00488,SESS0001962,2025-11-07,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001589,CUST02401,SESS0001589,2025-11-07,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001323,CUST01249,SESS0001323,2025-11-07,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.1,Completed
+ORD001475,CUST02104,SESS0001475,2025-11-07,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001358,CUST00597,SESS0001358,2025-11-08,Paid Search,GAds_Brand_Exact,Mobile,0.2,Completed
+ORD000602,CUST00786,SESS0000602,2025-11-08,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001899,CUST01711,SESS0001899,2025-11-08,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001822,CUST00527,SESS0001822,2025-11-08,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000172,CUST00470,SESS0000172,2025-11-08,Paid Social,Meta_Evergreen_Leggings,Mobile,0.2,Completed
+ORD000730,CUST02115,SESS0000730,2025-11-08,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001238,CUST01691,SESS0001238,2025-11-09,Direct,Direct_Brand_Traffic,Tablet,0.15,Completed
+ORD000342,CUST02255,SESS0000342,2025-11-09,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001295,CUST00463,SESS0001295,2025-11-09,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.15,Completed
+ORD001141,CUST01417,SESS0001141,2025-11-09,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD000298,CUST01668,SESS0000298,2025-11-09,Paid Social,Meta_Spring_Sculpt,Desktop,0.15,Completed
+ORD001778,CUST00587,SESS0001778,2025-11-09,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001118,CUST02069,SESS0001118,2025-11-10,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000246,CUST01734,SESS0000246,2025-11-10,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001387,CUST02047,SESS0001387,2025-11-10,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000068,CUST02365,SESS0000068,2025-11-10,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000445,CUST01514,SESS0000445,2025-11-10,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001107,CUST02439,SESS0001107,2025-11-11,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001978,CUST00919,SESS0001978,2025-11-11,Paid Search,GAds_PMax_Shopping,Mobile,0.0,Completed
+ORD000787,CUST00852,SESS0000787,2025-11-11,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.1,Completed
+ORD000039,CUST00654,SESS0000039,2025-11-11,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001265,CUST01182,SESS0001265,2025-11-11,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000870,CUST02481,SESS0000870,2025-11-11,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000299,CUST00780,SESS0000299,2025-11-11,Paid Social,Meta_Retargeting_Catalog,Mobile,0.2,Completed
+ORD001560,CUST01040,SESS0001560,2025-11-12,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000316,CUST00249,SESS0000316,2025-11-12,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001704,CUST01469,SESS0001704,2025-11-12,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000655,CUST01815,SESS0000655,2025-11-12,Email,Email_Winback_Inactive_90D,Desktop,0.1,Completed
+ORD000605,CUST00713,SESS0000605,2025-11-12,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001415,CUST01025,SESS0001415,2025-11-12,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001197,CUST02440,SESS0001197,2025-11-12,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001501,CUST00741,SESS0001501,2025-11-13,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000240,CUST01947,SESS0000240,2025-11-13,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001133,CUST00036,SESS0001133,2025-11-13,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001034,CUST01698,SESS0001034,2025-11-13,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000680,CUST00219,SESS0000680,2025-11-14,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000486,CUST01134,SESS0000486,2025-11-14,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001307,CUST00879,SESS0001307,2025-11-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001369,CUST01995,SESS0001369,2025-11-14,Email,Email_Cart_Recovery_Series,Desktop,0.1,Completed
+ORD000395,CUST00281,SESS0000395,2025-11-14,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000689,CUST01061,SESS0000689,2025-11-14,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD000366,CUST01169,SESS0000366,2025-11-14,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001050,CUST01262,SESS0001050,2025-11-15,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000244,CUST01086,SESS0000244,2025-11-15,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001456,CUST01697,SESS0001456,2025-11-15,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000549,CUST00933,SESS0000549,2025-11-15,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000699,CUST00274,SESS0000699,2025-11-15,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD001718,CUST01195,SESS0001718,2025-11-15,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Completed
+ORD001278,CUST00175,SESS0001278,2025-11-15,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001686,CUST02042,SESS0001686,2025-11-15,Email,Email_Winback_Inactive_90D,Mobile,0.3,Completed
+ORD001901,CUST00068,SESS0001901,2025-11-16,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000981,CUST00407,SESS0000981,2025-11-16,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001432,CUST02030,SESS0001432,2025-11-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001044,CUST02213,SESS0001044,2025-11-16,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.0,Completed
+ORD000421,CUST00537,SESS0000421,2025-11-16,Paid Search,GAds_Category_Athleisure,Desktop,0.1,Completed
+ORD001541,CUST00560,SESS0001541,2025-11-16,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD000073,CUST00188,SESS0000073,2025-11-16,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001515,CUST01959,SESS0001515,2025-11-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD001209,CUST00620,SESS0001209,2025-11-16,Paid Search,GAds_Brand_Exact,Desktop,0.0,Cancelled
+ORD001345,CUST01131,SESS0001345,2025-11-16,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001283,CUST00243,SESS0001283,2025-11-16,Email,Email_Cart_Recovery_Series,Desktop,0.15,Completed
+ORD000345,CUST00208,SESS0000345,2025-11-17,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000273,CUST00030,SESS0000273,2025-11-17,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000615,CUST01320,SESS0000615,2025-11-17,Paid Social,Meta_Summer_Active_Drop,Desktop,0.2,Completed
+ORD001435,CUST00043,SESS0001435,2025-11-17,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001654,CUST00673,SESS0001654,2025-11-17,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD001570,CUST02496,SESS0001570,2025-11-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001164,CUST01681,SESS0001164,2025-11-18,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD001807,CUST00412,SESS0001807,2025-11-18,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000429,CUST01878,SESS0000429,2025-11-18,Paid Social,Meta_Spring_Sculpt,Mobile,0.15,Completed
+ORD000379,CUST00240,SESS0000379,2025-11-18,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000768,CUST02092,SESS0000768,2025-11-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001758,CUST00736,SESS0001758,2025-11-18,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001316,CUST01165,SESS0001316,2025-11-18,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD001485,CUST00663,SESS0001485,2025-11-18,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000036,CUST00027,SESS0000036,2025-11-18,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001051,CUST01656,SESS0001051,2025-11-19,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000779,CUST02179,SESS0000779,2025-11-19,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001745,CUST01502,SESS0001745,2025-11-19,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD000540,CUST01567,SESS0000540,2025-11-19,Paid Social,Meta_Summer_Active_Drop,Desktop,0.15,Completed
+ORD000580,CUST02235,SESS0000580,2025-11-20,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001290,CUST01566,SESS0001290,2025-11-20,Paid Search,GAds_PMax_Shopping,Mobile,0.3,Completed
+ORD001256,CUST00234,SESS0001256,2025-11-20,Paid Search,GAds_Category_Athleisure,Desktop,0.1,Completed
+ORD000700,CUST01642,SESS0000700,2025-11-20,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000992,CUST01583,SESS0000992,2025-11-20,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.1,Completed
+ORD001382,CUST01771,SESS0001382,2025-11-20,Paid Search,GAds_Category_Athleisure,Desktop,0.1,Completed
+ORD001643,CUST02326,SESS0001643,2025-11-20,Paid Search,GAds_Brand_Exact,Desktop,0.1,Completed
+ORD000531,CUST00102,SESS0000531,2025-11-20,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001781,CUST00722,SESS0001781,2025-11-20,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.3,Completed
+ORD000031,CUST01719,SESS0000031,2025-11-21,Paid Social,Meta_Festive_Sale_Promo,Tablet,0.2,Completed
+ORD000058,CUST00178,SESS0000058,2025-11-21,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD001771,CUST01481,SESS0001771,2025-11-21,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001562,CUST01558,SESS0001562,2025-11-21,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001869,CUST01271,SESS0001869,2025-11-21,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD000018,CUST00896,SESS0000018,2025-11-22,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000484,CUST00379,SESS0000484,2025-11-22,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD000673,CUST01829,SESS0000673,2025-11-22,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000773,CUST00313,SESS0000773,2025-11-22,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Refunded
+ORD000245,CUST02162,SESS0000245,2025-11-22,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD001218,CUST00260,SESS0001218,2025-11-22,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD000934,CUST01273,SESS0000934,2025-11-22,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000007,CUST00572,SESS0000007,2025-11-22,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000513,CUST01263,SESS0000513,2025-11-23,Paid Search,GAds_Category_Athleisure,Mobile,0.1,Completed
+ORD001596,CUST02259,SESS0001596,2025-11-23,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000447,CUST00647,SESS0000447,2025-11-23,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000274,CUST00291,SESS0000274,2025-11-23,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD000939,CUST00259,SESS0000939,2025-11-23,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD000877,CUST00946,SESS0000877,2025-11-23,Direct,Direct_Brand_Traffic,Tablet,0.15,Completed
+ORD001078,CUST00924,SESS0001078,2025-11-23,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000808,CUST01568,SESS0000808,2025-11-23,Paid Search,GAds_PMax_Shopping,Mobile,0.1,Completed
+ORD000758,CUST00688,SESS0000758,2025-11-23,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000440,CUST02247,SESS0000440,2025-11-24,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000183,CUST01079,SESS0000183,2025-11-24,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001886,CUST01833,SESS0001886,2025-11-24,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Completed
+ORD000548,CUST01251,SESS0000548,2025-11-24,Email,Email_Cart_Recovery_Series,Mobile,0.15,Cancelled
+ORD000890,CUST00434,SESS0000890,2025-11-24,Direct,Direct_Brand_Traffic,Desktop,0.1,Completed
+ORD000350,CUST00969,SESS0000350,2025-11-24,Email,Email_VIP_Early_Access,Tablet,0.1,Completed
+ORD001884,CUST01867,SESS0001884,2025-11-25,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000855,CUST00262,SESS0000855,2025-11-25,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.0,Completed
+ORD000611,CUST02452,SESS0000611,2025-11-25,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD000722,CUST01034,SESS0000722,2025-11-25,Paid Social,Meta_Retargeting_Catalog,Desktop,0.2,Completed
+ORD000249,CUST02209,SESS0000249,2025-11-25,Organic Search,Organic_SEO_Content,Tablet,0.0,Completed
+ORD001203,CUST02479,SESS0001203,2025-11-25,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000476,CUST00834,SESS0000476,2025-11-25,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001930,CUST00104,SESS0001930,2025-11-25,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD000370,CUST00635,SESS0000370,2025-11-25,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD001489,CUST00828,SESS0001489,2025-11-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000688,CUST01426,SESS0000688,2025-11-26,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.0,Completed
+ORD001765,CUST00045,SESS0001765,2025-11-26,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000591,CUST00287,SESS0000591,2025-11-26,Paid Social,Meta_Retargeting_Catalog,Desktop,0.0,Completed
+ORD000271,CUST00943,SESS0000271,2025-11-26,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD000354,CUST01990,SESS0000354,2025-11-26,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000474,CUST01405,SESS0000474,2025-11-26,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001452,CUST01764,SESS0001452,2025-11-26,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001385,CUST00236,SESS0001385,2025-11-27,Influencer,Inf_Yoga_Creators_Collab,Tablet,0.1,Completed
+ORD000532,CUST00735,SESS0000532,2025-11-27,Paid Social,Meta_Summer_Active_Drop,Desktop,0.15,Completed
+ORD001865,CUST01762,SESS0001865,2025-11-27,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000667,CUST00303,SESS0000667,2025-11-27,Email,Email_VIP_Early_Access,Mobile,0.0,Cancelled
+ORD000303,CUST00398,SESS0000303,2025-11-27,Email,Email_Winback_Inactive_90D,Desktop,0.3,Completed
+ORD000485,CUST02287,SESS0000485,2025-11-27,Paid Search,GAds_Brand_Exact,Desktop,0.15,Completed
+ORD001797,CUST00185,SESS0001797,2025-11-27,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD000236,CUST00516,SESS0000236,2025-11-27,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000746,CUST01068,SESS0000746,2025-11-28,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001472,CUST01015,SESS0001472,2025-11-28,Organic Search,Organic_SEO_Content,Mobile,0.1,Refunded
+ORD000554,CUST00792,SESS0000554,2025-11-28,Organic Search,Organic_SEO_Content,Mobile,0.15,Cancelled
+ORD001733,CUST01604,SESS0001733,2025-11-28,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD000994,CUST00618,SESS0000994,2025-11-29,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD000489,CUST01367,SESS0000489,2025-11-29,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000132,CUST02395,SESS0000132,2025-11-29,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001357,CUST02049,SESS0001357,2025-11-29,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD001240,CUST00211,SESS0001240,2025-11-29,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.15,Completed
+ORD001567,CUST01352,SESS0001567,2025-11-29,Paid Search,GAds_Competitor_Conquest,Mobile,0.0,Completed
+ORD000707,CUST00650,SESS0000707,2025-11-29,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001372,CUST01667,SESS0001372,2025-11-29,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000553,CUST00097,SESS0000553,2025-11-30,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000251,CUST00824,SESS0000251,2025-11-30,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Refunded
+ORD000608,CUST00002,SESS0000608,2025-11-30,Email,Email_Welcome_Flow_10Off,Desktop,0.15,Completed
+ORD001150,CUST02014,SESS0001150,2025-11-30,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Completed
+ORD001110,CUST00392,SESS0001110,2025-11-30,Paid Social,Meta_Evergreen_Leggings,Mobile,0.15,Completed
+ORD000965,CUST02217,SESS0000965,2025-11-30,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000243,CUST00677,SESS0000243,2025-11-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001086,CUST01853,SESS0001086,2025-11-30,Paid Search,GAds_PMax_Shopping,Mobile,0.15,Completed
+ORD001302,CUST00609,SESS0001302,2025-12-01,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001785,CUST00514,SESS0001785,2025-12-01,Email,Email_Welcome_Flow_10Off,Desktop,0.1,Completed
+ORD001843,CUST00809,SESS0001843,2025-12-01,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000959,CUST01821,SESS0000959,2025-12-01,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000828,CUST01236,SESS0000828,2025-12-01,Paid Social,Meta_Spring_Sculpt,Mobile,0.3,Completed
+ORD001713,CUST00784,SESS0001713,2025-12-01,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001140,CUST01885,SESS0001140,2025-12-02,Paid Social,Meta_Retargeting_Catalog,Tablet,0.0,Completed
+ORD001631,CUST00317,SESS0001631,2025-12-02,Email,Email_Welcome_Flow_10Off,Desktop,0.1,Completed
+ORD001810,CUST00271,SESS0001810,2025-12-02,Email,Email_Cart_Recovery_Series,Desktop,0.2,Completed
+ORD001804,CUST01857,SESS0001804,2025-12-02,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000810,CUST02276,SESS0000810,2025-12-03,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD001524,CUST01129,SESS0001524,2025-12-03,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001812,CUST01842,SESS0001812,2025-12-03,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000523,CUST01449,SESS0000523,2025-12-03,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD001418,CUST00897,SESS0001418,2025-12-03,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.1,Completed
+ORD001395,CUST00292,SESS0001395,2025-12-03,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000347,CUST00061,SESS0000347,2025-12-03,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000785,CUST00955,SESS0000785,2025-12-03,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001239,CUST01691,SESS0001239,2025-12-03,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD000116,CUST00272,SESS0000116,2025-12-03,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Refunded
+ORD000195,CUST01223,SESS0000195,2025-12-04,Email,Email_Cart_Recovery_Series,Desktop,0.0,Completed
+ORD000080,CUST02463,SESS0000080,2025-12-04,Paid Search,GAds_Brand_Exact,Desktop,0.3,Completed
+ORD000990,CUST02380,SESS0000990,2025-12-04,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Refunded
+ORD000072,CUST00285,SESS0000072,2025-12-04,Influencer,Inf_Festive_Gifting_Unbox,Desktop,0.0,Completed
+ORD000117,CUST00865,SESS0000117,2025-12-04,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000255,CUST01635,SESS0000255,2025-12-05,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001705,CUST01469,SESS0001705,2025-12-05,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000529,CUST00726,SESS0000529,2025-12-05,Paid Search,GAds_Competitor_Conquest,Desktop,0.0,Completed
+ORD001662,CUST01265,SESS0001662,2025-12-05,Email,Email_Cart_Recovery_Series,Mobile,0.3,Completed
+ORD001727,CUST00020,SESS0001727,2025-12-05,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000477,CUST01082,SESS0000477,2025-12-05,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000085,CUST01495,SESS0000085,2025-12-05,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.3,Completed
+ORD001873,CUST00093,SESS0001873,2025-12-05,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001104,CUST01437,SESS0001104,2025-12-05,Email,Email_Cart_Recovery_Series,Mobile,0.0,Refunded
+ORD000436,CUST00874,SESS0000436,2025-12-06,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001950,CUST01403,SESS0001950,2025-12-06,Paid Social,Meta_Festive_Sale_Promo,Desktop,0.3,Completed
+ORD001532,CUST01865,SESS0001532,2025-12-06,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001493,CUST01932,SESS0001493,2025-12-06,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD000631,CUST00461,SESS0000631,2025-12-07,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001746,CUST01349,SESS0001746,2025-12-07,Paid Social,Meta_Evergreen_Leggings,Desktop,0.0,Completed
+ORD000247,CUST00868,SESS0000247,2025-12-07,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD001793,CUST00069,SESS0001793,2025-12-07,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000357,CUST00876,SESS0000357,2025-12-07,Direct,Direct_Brand_Traffic,Mobile,0.0,Refunded
+ORD000022,CUST00953,SESS0000022,2025-12-07,Email,Email_Welcome_Flow_10Off,Mobile,0.3,Completed
+ORD000065,CUST02262,SESS0000065,2025-12-07,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000702,CUST02099,SESS0000702,2025-12-08,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000859,CUST01977,SESS0000859,2025-12-08,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD001883,CUST01101,SESS0001883,2025-12-08,Influencer,Inf_Fitness_Ambassador_Q2,Desktop,0.0,Completed
+ORD000982,CUST00156,SESS0000982,2025-12-08,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000500,CUST00040,SESS0000500,2025-12-08,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001906,CUST00911,SESS0001906,2025-12-08,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001777,CUST01018,SESS0001777,2025-12-08,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD000356,CUST01972,SESS0000356,2025-12-08,Organic Search,Organic_SEO_Content,Tablet,0.0,Completed
+ORD001900,CUST01711,SESS0001900,2025-12-09,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001108,CUST00021,SESS0001108,2025-12-09,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001970,CUST00544,SESS0001970,2025-12-09,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD001945,CUST02348,SESS0001945,2025-12-09,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000106,CUST00132,SESS0000106,2025-12-09,Paid Search,GAds_PMax_Shopping,Desktop,0.0,Completed
+ORD001953,CUST02064,SESS0001953,2025-12-09,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000259,CUST01850,SESS0000259,2025-12-10,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD000907,CUST02222,SESS0000907,2025-12-10,Paid Search,GAds_Competitor_Conquest,Mobile,0.2,Completed
+ORD001334,CUST01282,SESS0001334,2025-12-10,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD000237,CUST00526,SESS0000237,2025-12-10,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001324,CUST01249,SESS0001324,2025-12-10,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001356,CUST01217,SESS0001356,2025-12-11,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000103,CUST00900,SESS0000103,2025-12-11,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD000100,CUST01106,SESS0000100,2025-12-11,Paid Search,GAds_Brand_Exact,Mobile,0.2,Refunded
+ORD001267,CUST01406,SESS0001267,2025-12-11,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001897,CUST02316,SESS0001897,2025-12-11,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000989,CUST00498,SESS0000989,2025-12-11,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD000851,CUST00339,SESS0000851,2025-12-12,Email,Email_Cart_Recovery_Series,Mobile,0.3,Completed
+ORD001412,CUST01434,SESS0001412,2025-12-12,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000800,CUST01425,SESS0000800,2025-12-12,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD001230,CUST01429,SESS0001230,2025-12-12,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD000886,CUST00777,SESS0000886,2025-12-12,Paid Search,GAds_Brand_Exact,Desktop,0.15,Completed
+ORD000286,CUST02106,SESS0000286,2025-12-12,Direct,Direct_Brand_Traffic,Desktop,0.0,Refunded
+ORD000997,CUST01402,SESS0000997,2025-12-12,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001188,CUST00444,SESS0001188,2025-12-12,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001521,CUST00491,SESS0001521,2025-12-12,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000088,CUST00667,SESS0000088,2025-12-12,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000535,CUST01687,SESS0000535,2025-12-12,Organic Search,Organic_SEO_Content,Desktop,0.15,Cancelled
+ORD001750,CUST02448,SESS0001750,2025-12-12,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000053,CUST01471,SESS0000053,2025-12-13,Paid Social,Meta_Retargeting_Catalog,Mobile,0.15,Completed
+ORD000192,CUST02080,SESS0000192,2025-12-13,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001940,CUST02183,SESS0001940,2025-12-13,Email,Email_VIP_Early_Access,Mobile,0.1,Completed
+ORD000461,CUST00551,SESS0000461,2025-12-13,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000791,CUST02062,SESS0000791,2025-12-13,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001288,CUST01143,SESS0001288,2025-12-13,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001158,CUST01128,SESS0001158,2025-12-13,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD000547,CUST01433,SESS0000547,2025-12-13,Organic Search,Organic_SEO_Content,Desktop,0.2,Completed
+ORD000381,CUST00250,SESS0000381,2025-12-14,Paid Search,GAds_Competitor_Conquest,Mobile,0.1,Completed
+ORD001608,CUST02169,SESS0001608,2025-12-14,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD001624,CUST00032,SESS0001624,2025-12-14,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001716,CUST01020,SESS0001716,2025-12-14,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.15,Completed
+ORD000389,CUST02176,SESS0000389,2025-12-14,Organic Search,Organic_SEO_Content,Mobile,0.0,Cancelled
+ORD000977,CUST00769,SESS0000977,2025-12-14,Paid Search,GAds_Competitor_Conquest,Desktop,0.1,Refunded
+ORD000289,CUST01989,SESS0000289,2025-12-14,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD000374,CUST00892,SESS0000374,2025-12-15,Email,Email_VIP_Early_Access,Mobile,0.15,Completed
+ORD000427,CUST00298,SESS0000427,2025-12-15,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.0,Completed
+ORD001757,CUST01371,SESS0001757,2025-12-15,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000560,CUST01439,SESS0000560,2025-12-15,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.3,Completed
+ORD000270,CUST02269,SESS0000270,2025-12-15,Paid Search,GAds_Category_Athleisure,Desktop,0.15,Completed
+ORD000995,CUST01742,SESS0000995,2025-12-15,Paid Search,GAds_Category_Athleisure,Mobile,0.15,Completed
+ORD001370,CUST01995,SESS0001370,2025-12-15,Email,Email_Welcome_Flow_10Off,Desktop,0.0,Completed
+ORD000202,CUST02387,SESS0000202,2025-12-16,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000133,CUST01755,SESS0000133,2025-12-16,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001903,CUST02097,SESS0001903,2025-12-17,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001719,CUST01195,SESS0001719,2025-12-17,Paid Social,Meta_Retargeting_Catalog,Desktop,0.3,Completed
+ORD000334,CUST01895,SESS0000334,2025-12-17,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000576,CUST01780,SESS0000576,2025-12-17,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD000340,CUST01816,SESS0000340,2025-12-17,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000732,CUST00326,SESS0000732,2025-12-17,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.1,Completed
+ORD001352,CUST02212,SESS0001352,2025-12-17,Paid Search,GAds_Brand_Exact,Mobile,0.15,Completed
+ORD001831,CUST00155,SESS0001831,2025-12-17,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD001772,CUST01481,SESS0001772,2025-12-17,Paid Social,Meta_Summer_Active_Drop,Mobile,0.15,Completed
+ORD001789,CUST00081,SESS0001789,2025-12-18,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.15,Refunded
+ORD001294,CUST02077,SESS0001294,2025-12-18,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000217,CUST00459,SESS0000217,2025-12-18,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD001080,CUST02023,SESS0001080,2025-12-18,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.1,Completed
+ORD000037,CUST00027,SESS0000037,2025-12-18,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001258,CUST00134,SESS0001258,2025-12-18,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.2,Completed
+ORD001013,CUST01868,SESS0001013,2025-12-18,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000221,CUST00981,SESS0000221,2025-12-18,Email,Email_Welcome_Flow_10Off,Mobile,0.15,Completed
+ORD001093,CUST02246,SESS0001093,2025-12-19,Direct,Direct_Brand_Traffic,Desktop,0.0,Completed
+ORD001060,CUST01893,SESS0001060,2025-12-19,Email,Email_Welcome_Flow_10Off,Desktop,0.2,Completed
+ORD000862,CUST01156,SESS0000862,2025-12-19,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD000010,CUST00357,SESS0000010,2025-12-19,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD000830,CUST00452,SESS0000830,2025-12-19,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.2,Completed
+ORD001893,CUST01395,SESS0001893,2025-12-19,Organic Search,Organic_SEO_Content,Desktop,0.1,Completed
+ORD001510,CUST01125,SESS0001510,2025-12-20,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000314,CUST00222,SESS0000314,2025-12-20,Direct,Direct_Brand_Traffic,Desktop,0.15,Completed
+ORD001219,CUST00562,SESS0001219,2025-12-20,Paid Social,Meta_Summer_Active_Drop,Desktop,0.3,Completed
+ORD000275,CUST00291,SESS0000275,2025-12-20,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000162,CUST00261,SESS0000162,2025-12-20,Direct,Direct_Brand_Traffic,Mobile,0.1,Completed
+ORD001963,CUST00488,SESS0001963,2025-12-20,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000481,CUST01029,SESS0000481,2025-12-20,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001070,CUST00503,SESS0001070,2025-12-21,Organic Search,Organic_SEO_Content,Mobile,0.15,Completed
+ORD000174,CUST01093,SESS0000174,2025-12-21,Paid Search,GAds_Brand_Exact,Mobile,0.0,Completed
+ORD000872,CUST00278,SESS0000872,2025-12-21,Paid Social,Meta_Retargeting_Catalog,Mobile,0.1,Completed
+ORD001955,CUST00358,SESS0001955,2025-12-21,Organic Search,Organic_SEO_Content,Mobile,0.1,Refunded
+ORD001583,CUST01957,SESS0001583,2025-12-21,Paid Social,Meta_Spring_Sculpt,Desktop,0.0,Completed
+ORD001304,CUST01206,SESS0001304,2025-12-21,Direct,Direct_Brand_Traffic,Desktop,0.2,Completed
+ORD000110,CUST01644,SESS0000110,2025-12-21,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD000597,CUST01673,SESS0000597,2025-12-21,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001688,CUST00115,SESS0001688,2025-12-21,Paid Social,Meta_Retargeting_Catalog,Tablet,0.2,Completed
+ORD001262,CUST01008,SESS0001262,2025-12-22,Paid Social,Meta_Summer_Active_Drop,Desktop,0.1,Completed
+ORD000343,CUST02255,SESS0000343,2025-12-22,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000952,CUST00344,SESS0000952,2025-12-22,Paid Social,Meta_Spring_Sculpt,Tablet,0.0,Completed
+ORD000475,CUST01405,SESS0000475,2025-12-22,Organic Search,Organic_SEO_Content,Mobile,0.2,Refunded
+ORD000408,CUST02142,SESS0000408,2025-12-22,Email,Email_Cart_Recovery_Series,Mobile,0.1,Completed
+ORD000282,CUST00129,SESS0000282,2025-12-23,Email,Email_VIP_Early_Access,Desktop,0.0,Completed
+ORD001759,CUST01178,SESS0001759,2025-12-23,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.1,Completed
+ORD001185,CUST00393,SESS0001185,2025-12-23,Paid Social,Meta_Spring_Sculpt,Mobile,0.1,Completed
+ORD001611,CUST01641,SESS0001611,2025-12-23,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.0,Completed
+ORD000448,CUST02323,SESS0000448,2025-12-23,Paid Search,GAds_Category_Athleisure,Tablet,0.1,Completed
+ORD000453,CUST00033,SESS0000453,2025-12-23,Direct,Direct_Brand_Traffic,Mobile,0.2,Completed
+ORD000698,CUST00935,SESS0000698,2025-12-23,Paid Search,GAds_Category_Athleisure,Mobile,0.0,Completed
+ORD000878,CUST00946,SESS0000878,2025-12-23,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD001798,CUST00185,SESS0001798,2025-12-24,Email,Email_Welcome_Flow_10Off,Mobile,0.0,Completed
+ORD000367,CUST01169,SESS0000367,2025-12-24,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD001257,CUST00234,SESS0001257,2025-12-24,Direct,Direct_Brand_Traffic,Mobile,0.15,Completed
+ORD001561,CUST00548,SESS0001561,2025-12-24,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001379,CUST01281,SESS0001379,2025-12-24,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD000304,CUST01766,SESS0000304,2025-12-25,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000899,CUST01541,SESS0000899,2025-12-25,Email,Email_Winback_Inactive_90D,Desktop,0.0,Completed
+ORD000383,CUST00235,SESS0000383,2025-12-25,Paid Social,Meta_Summer_Active_Drop,Tablet,0.2,Completed
+ORD000465,CUST02468,SESS0000465,2025-12-25,Email,Email_Welcome_Flow_10Off,Mobile,0.2,Cancelled
+ORD001279,CUST00509,SESS0001279,2025-12-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001502,CUST00741,SESS0001502,2025-12-25,Paid Search,GAds_Competitor_Conquest,Mobile,0.15,Completed
+ORD000756,CUST00481,SESS0000756,2025-12-25,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000955,CUST01244,SESS0000955,2025-12-25,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed
+ORD000254,CUST01277,SESS0000254,2025-12-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD001752,CUST00486,SESS0001752,2025-12-25,Paid Social,Meta_Evergreen_Leggings,Mobile,0.1,Completed
+ORD001737,CUST01204,SESS0001737,2025-12-25,Direct,Direct_Brand_Traffic,Mobile,0.3,Completed
+ORD000598,CUST01337,SESS0000598,2025-12-26,Influencer,Inf_Festive_Gifting_Unbox,Mobile,0.0,Completed
+ORD000382,CUST01285,SESS0000382,2025-12-26,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD001342,CUST00356,SESS0001342,2025-12-26,Organic Search,Organic_SEO_Content,Mobile,0.2,Completed
+ORD000561,CUST02087,SESS0000561,2025-12-26,Influencer,Inf_Yoga_Creators_Collab,Mobile,0.3,Completed
+ORD000772,CUST01422,SESS0000772,2025-12-26,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD001361,CUST00475,SESS0001361,2025-12-26,Influencer,Inf_Fitness_Ambassador_Q2,Mobile,0.0,Completed
+ORD000406,CUST00336,SESS0000406,2025-12-27,Influencer,Inf_Yoga_Creators_Collab,Desktop,0.0,Completed
+ORD000152,CUST00450,SESS0000152,2025-12-27,Email,Email_Cart_Recovery_Series,Mobile,0.0,Completed
+ORD000718,CUST01255,SESS0000718,2025-12-27,Paid Social,Meta_Summer_Active_Drop,Mobile,0.0,Completed
+ORD000771,CUST02277,SESS0000771,2025-12-27,Paid Social,Meta_Retargeting_Catalog,Mobile,0.0,Completed
+ORD000084,CUST01858,SESS0000084,2025-12-27,Email,Email_Cart_Recovery_Series,Mobile,0.2,Completed
+ORD001858,CUST01364,SESS0001858,2025-12-28,Paid Social,Meta_Spring_Sculpt,Mobile,0.0,Completed
+ORD000653,CUST00849,SESS0000653,2025-12-28,Direct,Direct_Brand_Traffic,Mobile,0.0,Completed
+ORD000332,CUST00752,SESS0000332,2025-12-28,Paid Search,GAds_Category_Athleisure,Desktop,0.0,Completed
+ORD000198,CUST02480,SESS0000198,2025-12-28,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.2,Completed
+ORD001761,CUST00606,SESS0001761,2025-12-28,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD001542,CUST00560,SESS0001542,2025-12-29,Email,Email_VIP_Early_Access,Mobile,0.0,Completed
+ORD000940,CUST02136,SESS0000940,2025-12-29,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD000250,CUST02209,SESS0000250,2025-12-29,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD000102,CUST02282,SESS0000102,2025-12-29,Email,Email_Winback_Inactive_90D,Mobile,0.0,Completed
+ORD001484,CUST01848,SESS0001484,2025-12-29,Paid Social,Meta_Summer_Active_Drop,Mobile,0.1,Completed
+ORD001221,CUST00112,SESS0001221,2025-12-29,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000184,CUST01079,SESS0000184,2025-12-29,Paid Social,Meta_Evergreen_Leggings,Mobile,0.0,Completed
+ORD000478,CUST02071,SESS0000478,2025-12-29,Paid Social,Meta_Evergreen_Leggings,Mobile,0.2,Completed
+ORD001145,CUST01360,SESS0001145,2025-12-30,Email,Email_Winback_Inactive_90D,Mobile,0.1,Completed
+ORD001454,CUST01605,SESS0001454,2025-12-30,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000617,CUST01905,SESS0000617,2025-12-30,Organic Search,Organic_SEO_Content,Mobile,0.0,Completed
+ORD000223,CUST00987,SESS0000223,2025-12-30,Paid Search,GAds_PMax_Shopping,Desktop,0.1,Completed
+ORD000388,CUST02060,SESS0000388,2025-12-30,Paid Search,GAds_Brand_Exact,Desktop,0.0,Completed
+ORD000920,CUST02248,SESS0000920,2025-12-30,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.0,Completed
+ORD001982,CUST00926,SESS0001982,2025-12-30,Organic Search,Organic_SEO_Content,Mobile,0.3,Completed
+ORD000138,CUST01483,SESS0000138,2025-12-30,Organic Search,Organic_SEO_Content,Desktop,0.0,Completed
+ORD001875,CUST00077,SESS0001875,2025-12-30,Organic Search,Organic_SEO_Content,Mobile,0.1,Completed
+ORD001856,CUST02207,SESS0001856,2025-12-30,Paid Social,Meta_Festive_Sale_Promo,Mobile,0.15,Completed
+ORD000119,CUST01289,SESS0000119,2025-12-30,Paid Search,GAds_Category_Athleisure,Mobile,0.2,Completed

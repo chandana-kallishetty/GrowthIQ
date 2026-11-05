@@ -1,0 +1,19 @@
+channel,campaign,campaign_type,expected_cvr,target_cpc,target_cpm
+Paid Social,Meta_Spring_Sculpt,Prospecting,0.024,22.0,480.0
+Paid Social,Meta_Summer_Active_Drop,Prospecting,0.028,26.0,520.0
+Paid Social,Meta_Festive_Sale_Promo,Promotional,0.035,30.0,600.0
+Paid Social,Meta_Retargeting_Catalog,Retargeting,0.042,18.0,420.0
+Paid Social,Meta_Evergreen_Leggings,Prospecting,0.022,20.0,450.0
+Paid Search,GAds_Brand_Exact,Brand,0.065,14.0,320.0
+Paid Search,GAds_Category_Athleisure,Generic,0.032,28.0,490.0
+Paid Search,GAds_PMax_Shopping,Shopping,0.04,24.0,460.0
+Paid Search,GAds_Competitor_Conquest,Conquesting,0.018,38.0,580.0
+Influencer,Inf_Yoga_Creators_Collab,Influencer,0.031,35.0,650.0
+Influencer,Inf_Fitness_Ambassador_Q2,Influencer,0.028,32.0,620.0
+Influencer,Inf_Festive_Gifting_Unbox,Influencer,0.036,40.0,710.0
+Email,Email_Welcome_Flow_10Off,Lifecycle,0.085,3.5,45.0
+Email,Email_Cart_Recovery_Series,Abandoned Cart,0.11,4.0,50.0
+Email,Email_VIP_Early_Access,Retention,0.095,3.0,40.0
+Email,Email_Winback_Inactive_90D,Winback,0.045,2.5,35.0
+Organic Search,Organic_SEO_Content,SEO,0.03,0.0,0.0
+Direct,Direct_Brand_Traffic,Direct,0.038,0.0,0.0
